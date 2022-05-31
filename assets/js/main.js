@@ -18,6 +18,8 @@
 
     $(window).on('load', function() {
         $('#djedpad-preloader').addClass('loaded');
+        $('.djedpad__header').addClass('active');
+        AOS.init();
     })
 
 }(jQuery));

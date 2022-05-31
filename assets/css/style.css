@@ -1466,6 +1466,30 @@ header .navbar-sticky {
   font-size: 18px;
 }
 
+.djedpad__header {
+  white-space: nowrap;
+  margin: 0 auto;
+	overflow: hidden;
+	width: 0px;
+}
+
+.djedpad__header.active {
+  animation: typing 2s steps(40, end);
+	animation-fill-mode: forwards;
+}
+
+
+.djedpad__header.headert.active {
+  animation: typing 2s steps(40, end);
+	animation-delay: 2s;
+	animation-fill-mode: forwards;
+}
+
+@keyframes typing {
+	from { width: 0px;}
+	to { width: 100%;}
+}
+
 /* #endregion Header */
 /*----------------------------------------------
 8. Feature

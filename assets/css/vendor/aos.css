@@ -1,1 +1,2925 @@
-[data-aos][data-aos][data-aos-duration="50"],body[data-aos-duration="50"] [data-aos]{transition-duration:50ms}[data-aos][data-aos][data-aos-delay="50"],body[data-aos-delay="50"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="50"].aos-animate,body[data-aos-delay="50"] [data-aos].aos-animate{transition-delay:50ms}[data-aos][data-aos][data-aos-duration="100"],body[data-aos-duration="100"] [data-aos]{transition-duration:.1s}[data-aos][data-aos][data-aos-delay="100"],body[data-aos-delay="100"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="100"].aos-animate,body[data-aos-delay="100"] [data-aos].aos-animate{transition-delay:.1s}[data-aos][data-aos][data-aos-duration="150"],body[data-aos-duration="150"] [data-aos]{transition-duration:.15s}[data-aos][data-aos][data-aos-delay="150"],body[data-aos-delay="150"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="150"].aos-animate,body[data-aos-delay="150"] [data-aos].aos-animate{transition-delay:.15s}[data-aos][data-aos][data-aos-duration="200"],body[data-aos-duration="200"] [data-aos]{transition-duration:.2s}[data-aos][data-aos][data-aos-delay="200"],body[data-aos-delay="200"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="200"].aos-animate,body[data-aos-delay="200"] [data-aos].aos-animate{transition-delay:.2s}[data-aos][data-aos][data-aos-duration="250"],body[data-aos-duration="250"] [data-aos]{transition-duration:.25s}[data-aos][data-aos][data-aos-delay="250"],body[data-aos-delay="250"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="250"].aos-animate,body[data-aos-delay="250"] [data-aos].aos-animate{transition-delay:.25s}[data-aos][data-aos][data-aos-duration="300"],body[data-aos-duration="300"] [data-aos]{transition-duration:.3s}[data-aos][data-aos][data-aos-delay="300"],body[data-aos-delay="300"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="300"].aos-animate,body[data-aos-delay="300"] [data-aos].aos-animate{transition-delay:.3s}[data-aos][data-aos][data-aos-duration="350"],body[data-aos-duration="350"] [data-aos]{transition-duration:.35s}[data-aos][data-aos][data-aos-delay="350"],body[data-aos-delay="350"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="350"].aos-animate,body[data-aos-delay="350"] [data-aos].aos-animate{transition-delay:.35s}[data-aos][data-aos][data-aos-duration="400"],body[data-aos-duration="400"] [data-aos]{transition-duration:.4s}[data-aos][data-aos][data-aos-delay="400"],body[data-aos-delay="400"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="400"].aos-animate,body[data-aos-delay="400"] [data-aos].aos-animate{transition-delay:.4s}[data-aos][data-aos][data-aos-duration="450"],body[data-aos-duration="450"] [data-aos]{transition-duration:.45s}[data-aos][data-aos][data-aos-delay="450"],body[data-aos-delay="450"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="450"].aos-animate,body[data-aos-delay="450"] [data-aos].aos-animate{transition-delay:.45s}[data-aos][data-aos][data-aos-duration="500"],body[data-aos-duration="500"] [data-aos]{transition-duration:.5s}[data-aos][data-aos][data-aos-delay="500"],body[data-aos-delay="500"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="500"].aos-animate,body[data-aos-delay="500"] [data-aos].aos-animate{transition-delay:.5s}[data-aos][data-aos][data-aos-duration="550"],body[data-aos-duration="550"] [data-aos]{transition-duration:.55s}[data-aos][data-aos][data-aos-delay="550"],body[data-aos-delay="550"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="550"].aos-animate,body[data-aos-delay="550"] [data-aos].aos-animate{transition-delay:.55s}[data-aos][data-aos][data-aos-duration="600"],body[data-aos-duration="600"] [data-aos]{transition-duration:.6s}[data-aos][data-aos][data-aos-delay="600"],body[data-aos-delay="600"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="600"].aos-animate,body[data-aos-delay="600"] [data-aos].aos-animate{transition-delay:.6s}[data-aos][data-aos][data-aos-duration="650"],body[data-aos-duration="650"] [data-aos]{transition-duration:.65s}[data-aos][data-aos][data-aos-delay="650"],body[data-aos-delay="650"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="650"].aos-animate,body[data-aos-delay="650"] [data-aos].aos-animate{transition-delay:.65s}[data-aos][data-aos][data-aos-duration="700"],body[data-aos-duration="700"] [data-aos]{transition-duration:.7s}[data-aos][data-aos][data-aos-delay="700"],body[data-aos-delay="700"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="700"].aos-animate,body[data-aos-delay="700"] [data-aos].aos-animate{transition-delay:.7s}[data-aos][data-aos][data-aos-duration="750"],body[data-aos-duration="750"] [data-aos]{transition-duration:.75s}[data-aos][data-aos][data-aos-delay="750"],body[data-aos-delay="750"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="750"].aos-animate,body[data-aos-delay="750"] [data-aos].aos-animate{transition-delay:.75s}[data-aos][data-aos][data-aos-duration="800"],body[data-aos-duration="800"] [data-aos]{transition-duration:.8s}[data-aos][data-aos][data-aos-delay="800"],body[data-aos-delay="800"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="800"].aos-animate,body[data-aos-delay="800"] [data-aos].aos-animate{transition-delay:.8s}[data-aos][data-aos][data-aos-duration="850"],body[data-aos-duration="850"] [data-aos]{transition-duration:.85s}[data-aos][data-aos][data-aos-delay="850"],body[data-aos-delay="850"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="850"].aos-animate,body[data-aos-delay="850"] [data-aos].aos-animate{transition-delay:.85s}[data-aos][data-aos][data-aos-duration="900"],body[data-aos-duration="900"] [data-aos]{transition-duration:.9s}[data-aos][data-aos][data-aos-delay="900"],body[data-aos-delay="900"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="900"].aos-animate,body[data-aos-delay="900"] [data-aos].aos-animate{transition-delay:.9s}[data-aos][data-aos][data-aos-duration="950"],body[data-aos-duration="950"] [data-aos]{transition-duration:.95s}[data-aos][data-aos][data-aos-delay="950"],body[data-aos-delay="950"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="950"].aos-animate,body[data-aos-delay="950"] [data-aos].aos-animate{transition-delay:.95s}[data-aos][data-aos][data-aos-duration="1000"],body[data-aos-duration="1000"] [data-aos]{transition-duration:1s}[data-aos][data-aos][data-aos-delay="1000"],body[data-aos-delay="1000"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1000"].aos-animate,body[data-aos-delay="1000"] [data-aos].aos-animate{transition-delay:1s}[data-aos][data-aos][data-aos-duration="1050"],body[data-aos-duration="1050"] [data-aos]{transition-duration:1.05s}[data-aos][data-aos][data-aos-delay="1050"],body[data-aos-delay="1050"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1050"].aos-animate,body[data-aos-delay="1050"] [data-aos].aos-animate{transition-delay:1.05s}[data-aos][data-aos][data-aos-duration="1100"],body[data-aos-duration="1100"] [data-aos]{transition-duration:1.1s}[data-aos][data-aos][data-aos-delay="1100"],body[data-aos-delay="1100"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1100"].aos-animate,body[data-aos-delay="1100"] [data-aos].aos-animate{transition-delay:1.1s}[data-aos][data-aos][data-aos-duration="1150"],body[data-aos-duration="1150"] [data-aos]{transition-duration:1.15s}[data-aos][data-aos][data-aos-delay="1150"],body[data-aos-delay="1150"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1150"].aos-animate,body[data-aos-delay="1150"] [data-aos].aos-animate{transition-delay:1.15s}[data-aos][data-aos][data-aos-duration="1200"],body[data-aos-duration="1200"] [data-aos]{transition-duration:1.2s}[data-aos][data-aos][data-aos-delay="1200"],body[data-aos-delay="1200"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1200"].aos-animate,body[data-aos-delay="1200"] [data-aos].aos-animate{transition-delay:1.2s}[data-aos][data-aos][data-aos-duration="1250"],body[data-aos-duration="1250"] [data-aos]{transition-duration:1.25s}[data-aos][data-aos][data-aos-delay="1250"],body[data-aos-delay="1250"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1250"].aos-animate,body[data-aos-delay="1250"] [data-aos].aos-animate{transition-delay:1.25s}[data-aos][data-aos][data-aos-duration="1300"],body[data-aos-duration="1300"] [data-aos]{transition-duration:1.3s}[data-aos][data-aos][data-aos-delay="1300"],body[data-aos-delay="1300"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1300"].aos-animate,body[data-aos-delay="1300"] [data-aos].aos-animate{transition-delay:1.3s}[data-aos][data-aos][data-aos-duration="1350"],body[data-aos-duration="1350"] [data-aos]{transition-duration:1.35s}[data-aos][data-aos][data-aos-delay="1350"],body[data-aos-delay="1350"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1350"].aos-animate,body[data-aos-delay="1350"] [data-aos].aos-animate{transition-delay:1.35s}[data-aos][data-aos][data-aos-duration="1400"],body[data-aos-duration="1400"] [data-aos]{transition-duration:1.4s}[data-aos][data-aos][data-aos-delay="1400"],body[data-aos-delay="1400"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1400"].aos-animate,body[data-aos-delay="1400"] [data-aos].aos-animate{transition-delay:1.4s}[data-aos][data-aos][data-aos-duration="1450"],body[data-aos-duration="1450"] [data-aos]{transition-duration:1.45s}[data-aos][data-aos][data-aos-delay="1450"],body[data-aos-delay="1450"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1450"].aos-animate,body[data-aos-delay="1450"] [data-aos].aos-animate{transition-delay:1.45s}[data-aos][data-aos][data-aos-duration="1500"],body[data-aos-duration="1500"] [data-aos]{transition-duration:1.5s}[data-aos][data-aos][data-aos-delay="1500"],body[data-aos-delay="1500"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1500"].aos-animate,body[data-aos-delay="1500"] [data-aos].aos-animate{transition-delay:1.5s}[data-aos][data-aos][data-aos-duration="1550"],body[data-aos-duration="1550"] [data-aos]{transition-duration:1.55s}[data-aos][data-aos][data-aos-delay="1550"],body[data-aos-delay="1550"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1550"].aos-animate,body[data-aos-delay="1550"] [data-aos].aos-animate{transition-delay:1.55s}[data-aos][data-aos][data-aos-duration="1600"],body[data-aos-duration="1600"] [data-aos]{transition-duration:1.6s}[data-aos][data-aos][data-aos-delay="1600"],body[data-aos-delay="1600"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1600"].aos-animate,body[data-aos-delay="1600"] [data-aos].aos-animate{transition-delay:1.6s}[data-aos][data-aos][data-aos-duration="1650"],body[data-aos-duration="1650"] [data-aos]{transition-duration:1.65s}[data-aos][data-aos][data-aos-delay="1650"],body[data-aos-delay="1650"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1650"].aos-animate,body[data-aos-delay="1650"] [data-aos].aos-animate{transition-delay:1.65s}[data-aos][data-aos][data-aos-duration="1700"],body[data-aos-duration="1700"] [data-aos]{transition-duration:1.7s}[data-aos][data-aos][data-aos-delay="1700"],body[data-aos-delay="1700"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1700"].aos-animate,body[data-aos-delay="1700"] [data-aos].aos-animate{transition-delay:1.7s}[data-aos][data-aos][data-aos-duration="1750"],body[data-aos-duration="1750"] [data-aos]{transition-duration:1.75s}[data-aos][data-aos][data-aos-delay="1750"],body[data-aos-delay="1750"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1750"].aos-animate,body[data-aos-delay="1750"] [data-aos].aos-animate{transition-delay:1.75s}[data-aos][data-aos][data-aos-duration="1800"],body[data-aos-duration="1800"] [data-aos]{transition-duration:1.8s}[data-aos][data-aos][data-aos-delay="1800"],body[data-aos-delay="1800"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1800"].aos-animate,body[data-aos-delay="1800"] [data-aos].aos-animate{transition-delay:1.8s}[data-aos][data-aos][data-aos-duration="1850"],body[data-aos-duration="1850"] [data-aos]{transition-duration:1.85s}[data-aos][data-aos][data-aos-delay="1850"],body[data-aos-delay="1850"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1850"].aos-animate,body[data-aos-delay="1850"] [data-aos].aos-animate{transition-delay:1.85s}[data-aos][data-aos][data-aos-duration="1900"],body[data-aos-duration="1900"] [data-aos]{transition-duration:1.9s}[data-aos][data-aos][data-aos-delay="1900"],body[data-aos-delay="1900"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1900"].aos-animate,body[data-aos-delay="1900"] [data-aos].aos-animate{transition-delay:1.9s}[data-aos][data-aos][data-aos-duration="1950"],body[data-aos-duration="1950"] [data-aos]{transition-duration:1.95s}[data-aos][data-aos][data-aos-delay="1950"],body[data-aos-delay="1950"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="1950"].aos-animate,body[data-aos-delay="1950"] [data-aos].aos-animate{transition-delay:1.95s}[data-aos][data-aos][data-aos-duration="2000"],body[data-aos-duration="2000"] [data-aos]{transition-duration:2s}[data-aos][data-aos][data-aos-delay="2000"],body[data-aos-delay="2000"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2000"].aos-animate,body[data-aos-delay="2000"] [data-aos].aos-animate{transition-delay:2s}[data-aos][data-aos][data-aos-duration="2050"],body[data-aos-duration="2050"] [data-aos]{transition-duration:2.05s}[data-aos][data-aos][data-aos-delay="2050"],body[data-aos-delay="2050"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2050"].aos-animate,body[data-aos-delay="2050"] [data-aos].aos-animate{transition-delay:2.05s}[data-aos][data-aos][data-aos-duration="2100"],body[data-aos-duration="2100"] [data-aos]{transition-duration:2.1s}[data-aos][data-aos][data-aos-delay="2100"],body[data-aos-delay="2100"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2100"].aos-animate,body[data-aos-delay="2100"] [data-aos].aos-animate{transition-delay:2.1s}[data-aos][data-aos][data-aos-duration="2150"],body[data-aos-duration="2150"] [data-aos]{transition-duration:2.15s}[data-aos][data-aos][data-aos-delay="2150"],body[data-aos-delay="2150"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2150"].aos-animate,body[data-aos-delay="2150"] [data-aos].aos-animate{transition-delay:2.15s}[data-aos][data-aos][data-aos-duration="2200"],body[data-aos-duration="2200"] [data-aos]{transition-duration:2.2s}[data-aos][data-aos][data-aos-delay="2200"],body[data-aos-delay="2200"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2200"].aos-animate,body[data-aos-delay="2200"] [data-aos].aos-animate{transition-delay:2.2s}[data-aos][data-aos][data-aos-duration="2250"],body[data-aos-duration="2250"] [data-aos]{transition-duration:2.25s}[data-aos][data-aos][data-aos-delay="2250"],body[data-aos-delay="2250"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2250"].aos-animate,body[data-aos-delay="2250"] [data-aos].aos-animate{transition-delay:2.25s}[data-aos][data-aos][data-aos-duration="2300"],body[data-aos-duration="2300"] [data-aos]{transition-duration:2.3s}[data-aos][data-aos][data-aos-delay="2300"],body[data-aos-delay="2300"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2300"].aos-animate,body[data-aos-delay="2300"] [data-aos].aos-animate{transition-delay:2.3s}[data-aos][data-aos][data-aos-duration="2350"],body[data-aos-duration="2350"] [data-aos]{transition-duration:2.35s}[data-aos][data-aos][data-aos-delay="2350"],body[data-aos-delay="2350"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2350"].aos-animate,body[data-aos-delay="2350"] [data-aos].aos-animate{transition-delay:2.35s}[data-aos][data-aos][data-aos-duration="2400"],body[data-aos-duration="2400"] [data-aos]{transition-duration:2.4s}[data-aos][data-aos][data-aos-delay="2400"],body[data-aos-delay="2400"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2400"].aos-animate,body[data-aos-delay="2400"] [data-aos].aos-animate{transition-delay:2.4s}[data-aos][data-aos][data-aos-duration="2450"],body[data-aos-duration="2450"] [data-aos]{transition-duration:2.45s}[data-aos][data-aos][data-aos-delay="2450"],body[data-aos-delay="2450"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2450"].aos-animate,body[data-aos-delay="2450"] [data-aos].aos-animate{transition-delay:2.45s}[data-aos][data-aos][data-aos-duration="2500"],body[data-aos-duration="2500"] [data-aos]{transition-duration:2.5s}[data-aos][data-aos][data-aos-delay="2500"],body[data-aos-delay="2500"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2500"].aos-animate,body[data-aos-delay="2500"] [data-aos].aos-animate{transition-delay:2.5s}[data-aos][data-aos][data-aos-duration="2550"],body[data-aos-duration="2550"] [data-aos]{transition-duration:2.55s}[data-aos][data-aos][data-aos-delay="2550"],body[data-aos-delay="2550"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2550"].aos-animate,body[data-aos-delay="2550"] [data-aos].aos-animate{transition-delay:2.55s}[data-aos][data-aos][data-aos-duration="2600"],body[data-aos-duration="2600"] [data-aos]{transition-duration:2.6s}[data-aos][data-aos][data-aos-delay="2600"],body[data-aos-delay="2600"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2600"].aos-animate,body[data-aos-delay="2600"] [data-aos].aos-animate{transition-delay:2.6s}[data-aos][data-aos][data-aos-duration="2650"],body[data-aos-duration="2650"] [data-aos]{transition-duration:2.65s}[data-aos][data-aos][data-aos-delay="2650"],body[data-aos-delay="2650"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2650"].aos-animate,body[data-aos-delay="2650"] [data-aos].aos-animate{transition-delay:2.65s}[data-aos][data-aos][data-aos-duration="2700"],body[data-aos-duration="2700"] [data-aos]{transition-duration:2.7s}[data-aos][data-aos][data-aos-delay="2700"],body[data-aos-delay="2700"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2700"].aos-animate,body[data-aos-delay="2700"] [data-aos].aos-animate{transition-delay:2.7s}[data-aos][data-aos][data-aos-duration="2750"],body[data-aos-duration="2750"] [data-aos]{transition-duration:2.75s}[data-aos][data-aos][data-aos-delay="2750"],body[data-aos-delay="2750"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2750"].aos-animate,body[data-aos-delay="2750"] [data-aos].aos-animate{transition-delay:2.75s}[data-aos][data-aos][data-aos-duration="2800"],body[data-aos-duration="2800"] [data-aos]{transition-duration:2.8s}[data-aos][data-aos][data-aos-delay="2800"],body[data-aos-delay="2800"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2800"].aos-animate,body[data-aos-delay="2800"] [data-aos].aos-animate{transition-delay:2.8s}[data-aos][data-aos][data-aos-duration="2850"],body[data-aos-duration="2850"] [data-aos]{transition-duration:2.85s}[data-aos][data-aos][data-aos-delay="2850"],body[data-aos-delay="2850"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2850"].aos-animate,body[data-aos-delay="2850"] [data-aos].aos-animate{transition-delay:2.85s}[data-aos][data-aos][data-aos-duration="2900"],body[data-aos-duration="2900"] [data-aos]{transition-duration:2.9s}[data-aos][data-aos][data-aos-delay="2900"],body[data-aos-delay="2900"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2900"].aos-animate,body[data-aos-delay="2900"] [data-aos].aos-animate{transition-delay:2.9s}[data-aos][data-aos][data-aos-duration="2950"],body[data-aos-duration="2950"] [data-aos]{transition-duration:2.95s}[data-aos][data-aos][data-aos-delay="2950"],body[data-aos-delay="2950"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="2950"].aos-animate,body[data-aos-delay="2950"] [data-aos].aos-animate{transition-delay:2.95s}[data-aos][data-aos][data-aos-duration="3000"],body[data-aos-duration="3000"] [data-aos]{transition-duration:3s}[data-aos][data-aos][data-aos-delay="3000"],body[data-aos-delay="3000"] [data-aos]{transition-delay:0s}[data-aos][data-aos][data-aos-delay="3000"].aos-animate,body[data-aos-delay="3000"] [data-aos].aos-animate{transition-delay:3s}[data-aos]{pointer-events:none}[data-aos].aos-animate{pointer-events:auto}[data-aos][data-aos][data-aos-easing=linear],body[data-aos-easing=linear] [data-aos]{transition-timing-function:cubic-bezier(.25,.25,.75,.75)}[data-aos][data-aos][data-aos-easing=ease],body[data-aos-easing=ease] [data-aos]{transition-timing-function:ease}[data-aos][data-aos][data-aos-easing=ease-in],body[data-aos-easing=ease-in] [data-aos]{transition-timing-function:ease-in}[data-aos][data-aos][data-aos-easing=ease-out],body[data-aos-easing=ease-out] [data-aos]{transition-timing-function:ease-out}[data-aos][data-aos][data-aos-easing=ease-in-out],body[data-aos-easing=ease-in-out] [data-aos]{transition-timing-function:ease-in-out}[data-aos][data-aos][data-aos-easing=ease-in-back],body[data-aos-easing=ease-in-back] [data-aos]{transition-timing-function:cubic-bezier(.6,-.28,.735,.045)}[data-aos][data-aos][data-aos-easing=ease-out-back],body[data-aos-easing=ease-out-back] [data-aos]{transition-timing-function:cubic-bezier(.175,.885,.32,1.275)}[data-aos][data-aos][data-aos-easing=ease-in-out-back],body[data-aos-easing=ease-in-out-back] [data-aos]{transition-timing-function:cubic-bezier(.68,-.55,.265,1.55)}[data-aos][data-aos][data-aos-easing=ease-in-sine],body[data-aos-easing=ease-in-sine] [data-aos]{transition-timing-function:cubic-bezier(.47,0,.745,.715)}[data-aos][data-aos][data-aos-easing=ease-out-sine],body[data-aos-easing=ease-out-sine] [data-aos]{transition-timing-function:cubic-bezier(.39,.575,.565,1)}[data-aos][data-aos][data-aos-easing=ease-in-out-sine],body[data-aos-easing=ease-in-out-sine] [data-aos]{transition-timing-function:cubic-bezier(.445,.05,.55,.95)}[data-aos][data-aos][data-aos-easing=ease-in-quad],body[data-aos-easing=ease-in-quad] [data-aos]{transition-timing-function:cubic-bezier(.55,.085,.68,.53)}[data-aos][data-aos][data-aos-easing=ease-out-quad],body[data-aos-easing=ease-out-quad] [data-aos]{transition-timing-function:cubic-bezier(.25,.46,.45,.94)}[data-aos][data-aos][data-aos-easing=ease-in-out-quad],body[data-aos-easing=ease-in-out-quad] [data-aos]{transition-timing-function:cubic-bezier(.455,.03,.515,.955)}[data-aos][data-aos][data-aos-easing=ease-in-cubic],body[data-aos-easing=ease-in-cubic] [data-aos]{transition-timing-function:cubic-bezier(.55,.085,.68,.53)}[data-aos][data-aos][data-aos-easing=ease-out-cubic],body[data-aos-easing=ease-out-cubic] [data-aos]{transition-timing-function:cubic-bezier(.25,.46,.45,.94)}[data-aos][data-aos][data-aos-easing=ease-in-out-cubic],body[data-aos-easing=ease-in-out-cubic] [data-aos]{transition-timing-function:cubic-bezier(.455,.03,.515,.955)}[data-aos][data-aos][data-aos-easing=ease-in-quart],body[data-aos-easing=ease-in-quart] [data-aos]{transition-timing-function:cubic-bezier(.55,.085,.68,.53)}[data-aos][data-aos][data-aos-easing=ease-out-quart],body[data-aos-easing=ease-out-quart] [data-aos]{transition-timing-function:cubic-bezier(.25,.46,.45,.94)}[data-aos][data-aos][data-aos-easing=ease-in-out-quart],body[data-aos-easing=ease-in-out-quart] [data-aos]{transition-timing-function:cubic-bezier(.455,.03,.515,.955)}@media screen{html:not(.no-js) [data-aos^=fade][data-aos^=fade]{opacity:0;transition-property:opacity,-webkit-transform;transition-property:opacity,transform;transition-property:opacity,transform,-webkit-transform}html:not(.no-js) [data-aos^=fade][data-aos^=fade].aos-animate{opacity:1;-webkit-transform:none;transform:none}html:not(.no-js) [data-aos=fade-up]{-webkit-transform:translate3d(0,100px,0);transform:translate3d(0,100px,0)}html:not(.no-js) [data-aos=fade-down]{-webkit-transform:translate3d(0,-100px,0);transform:translate3d(0,-100px,0)}html:not(.no-js) [data-aos=fade-right]{-webkit-transform:translate3d(-100px,0,0);transform:translate3d(-100px,0,0)}html:not(.no-js) [data-aos=fade-left]{-webkit-transform:translate3d(100px,0,0);transform:translate3d(100px,0,0)}html:not(.no-js) [data-aos=fade-up-right]{-webkit-transform:translate3d(-100px,100px,0);transform:translate3d(-100px,100px,0)}html:not(.no-js) [data-aos=fade-up-left]{-webkit-transform:translate3d(100px,100px,0);transform:translate3d(100px,100px,0)}html:not(.no-js) [data-aos=fade-down-right]{-webkit-transform:translate3d(-100px,-100px,0);transform:translate3d(-100px,-100px,0)}html:not(.no-js) [data-aos=fade-down-left]{-webkit-transform:translate3d(100px,-100px,0);transform:translate3d(100px,-100px,0)}html:not(.no-js) [data-aos^=zoom][data-aos^=zoom]{opacity:0;transition-property:opacity,-webkit-transform;transition-property:opacity,transform;transition-property:opacity,transform,-webkit-transform}html:not(.no-js) [data-aos^=zoom][data-aos^=zoom].aos-animate{opacity:1;-webkit-transform:translateZ(0) scale(1);transform:translateZ(0) scale(1)}html:not(.no-js) [data-aos=zoom-in]{-webkit-transform:scale(.6);transform:scale(.6)}html:not(.no-js) [data-aos=zoom-in-up]{-webkit-transform:translate3d(0,100px,0) scale(.6);transform:translate3d(0,100px,0) scale(.6)}html:not(.no-js) [data-aos=zoom-in-down]{-webkit-transform:translate3d(0,-100px,0) scale(.6);transform:translate3d(0,-100px,0) scale(.6)}html:not(.no-js) [data-aos=zoom-in-right]{-webkit-transform:translate3d(-100px,0,0) scale(.6);transform:translate3d(-100px,0,0) scale(.6)}html:not(.no-js) [data-aos=zoom-in-left]{-webkit-transform:translate3d(100px,0,0) scale(.6);transform:translate3d(100px,0,0) scale(.6)}html:not(.no-js) [data-aos=zoom-out]{-webkit-transform:scale(1.2);transform:scale(1.2)}html:not(.no-js) [data-aos=zoom-out-up]{-webkit-transform:translate3d(0,100px,0) scale(1.2);transform:translate3d(0,100px,0) scale(1.2)}html:not(.no-js) [data-aos=zoom-out-down]{-webkit-transform:translate3d(0,-100px,0) scale(1.2);transform:translate3d(0,-100px,0) scale(1.2)}html:not(.no-js) [data-aos=zoom-out-right]{-webkit-transform:translate3d(-100px,0,0) scale(1.2);transform:translate3d(-100px,0,0) scale(1.2)}html:not(.no-js) [data-aos=zoom-out-left]{-webkit-transform:translate3d(100px,0,0) scale(1.2);transform:translate3d(100px,0,0) scale(1.2)}html:not(.no-js) [data-aos^=slide][data-aos^=slide]{transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform;visibility:hidden}html:not(.no-js) [data-aos^=slide][data-aos^=slide].aos-animate{visibility:visible;-webkit-transform:translateZ(0);transform:translateZ(0)}html:not(.no-js) [data-aos=slide-up]{-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}html:not(.no-js) [data-aos=slide-down]{-webkit-transform:translate3d(0,-100%,0);transform:translate3d(0,-100%,0)}html:not(.no-js) [data-aos=slide-right]{-webkit-transform:translate3d(-100%,0,0);transform:translate3d(-100%,0,0)}html:not(.no-js) [data-aos=slide-left]{-webkit-transform:translate3d(100%,0,0);transform:translate3d(100%,0,0)}html:not(.no-js) [data-aos^=flip][data-aos^=flip]{-webkit-backface-visibility:hidden;backface-visibility:hidden;transition-property:-webkit-transform;transition-property:transform;transition-property:transform,-webkit-transform}html:not(.no-js) [data-aos=flip-left]{-webkit-transform:perspective(2500px) rotateY(-100deg);transform:perspective(2500px) rotateY(-100deg)}html:not(.no-js) [data-aos=flip-left].aos-animate{-webkit-transform:perspective(2500px) rotateY(0);transform:perspective(2500px) rotateY(0)}html:not(.no-js) [data-aos=flip-right]{-webkit-transform:perspective(2500px) rotateY(100deg);transform:perspective(2500px) rotateY(100deg)}html:not(.no-js) [data-aos=flip-right].aos-animate{-webkit-transform:perspective(2500px) rotateY(0);transform:perspective(2500px) rotateY(0)}html:not(.no-js) [data-aos=flip-up]{-webkit-transform:perspective(2500px) rotateX(-100deg);transform:perspective(2500px) rotateX(-100deg)}html:not(.no-js) [data-aos=flip-up].aos-animate{-webkit-transform:perspective(2500px) rotateX(0);transform:perspective(2500px) rotateX(0)}html:not(.no-js) [data-aos=flip-down]{-webkit-transform:perspective(2500px) rotateX(100deg);transform:perspective(2500px) rotateX(100deg)}html:not(.no-js) [data-aos=flip-down].aos-animate{-webkit-transform:perspective(2500px) rotateX(0);transform:perspective(2500px) rotateX(0)}}
+body[data-aos-duration="50"] [data-aos], [data-aos][data-aos][data-aos-duration="50"] {
+    transition-duration: 50ms;
+  }
+  body[data-aos-delay="50"] [data-aos], [data-aos][data-aos][data-aos-delay="50"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="50"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="50"].aos-animate {
+    transition-delay: 50ms;
+  }
+  body[data-aos-duration="100"] [data-aos], [data-aos][data-aos][data-aos-duration="100"] {
+    transition-duration: 100ms;
+  }
+  body[data-aos-delay="100"] [data-aos], [data-aos][data-aos][data-aos-delay="100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="100"].aos-animate {
+    transition-delay: 100ms;
+  }
+  body[data-aos-duration="150"] [data-aos], [data-aos][data-aos][data-aos-duration="150"] {
+    transition-duration: 150ms;
+  }
+  body[data-aos-delay="150"] [data-aos], [data-aos][data-aos][data-aos-delay="150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="150"].aos-animate {
+    transition-delay: 150ms;
+  }
+  body[data-aos-duration="200"] [data-aos], [data-aos][data-aos][data-aos-duration="200"] {
+    transition-duration: 200ms;
+  }
+  body[data-aos-delay="200"] [data-aos], [data-aos][data-aos][data-aos-delay="200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="200"].aos-animate {
+    transition-delay: 200ms;
+  }
+  body[data-aos-duration="250"] [data-aos], [data-aos][data-aos][data-aos-duration="250"] {
+    transition-duration: 250ms;
+  }
+  body[data-aos-delay="250"] [data-aos], [data-aos][data-aos][data-aos-delay="250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="250"].aos-animate {
+    transition-delay: 250ms;
+  }
+  body[data-aos-duration="300"] [data-aos], [data-aos][data-aos][data-aos-duration="300"] {
+    transition-duration: 300ms;
+  }
+  body[data-aos-delay="300"] [data-aos], [data-aos][data-aos][data-aos-delay="300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="300"].aos-animate {
+    transition-delay: 300ms;
+  }
+  body[data-aos-duration="350"] [data-aos], [data-aos][data-aos][data-aos-duration="350"] {
+    transition-duration: 350ms;
+  }
+  body[data-aos-delay="350"] [data-aos], [data-aos][data-aos][data-aos-delay="350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="350"].aos-animate {
+    transition-delay: 350ms;
+  }
+  body[data-aos-duration="400"] [data-aos], [data-aos][data-aos][data-aos-duration="400"] {
+    transition-duration: 400ms;
+  }
+  body[data-aos-delay="400"] [data-aos], [data-aos][data-aos][data-aos-delay="400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="400"].aos-animate {
+    transition-delay: 400ms;
+  }
+  body[data-aos-duration="450"] [data-aos], [data-aos][data-aos][data-aos-duration="450"] {
+    transition-duration: 450ms;
+  }
+  body[data-aos-delay="450"] [data-aos], [data-aos][data-aos][data-aos-delay="450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="450"].aos-animate {
+    transition-delay: 450ms;
+  }
+  body[data-aos-duration="500"] [data-aos], [data-aos][data-aos][data-aos-duration="500"] {
+    transition-duration: 500ms;
+  }
+  body[data-aos-delay="500"] [data-aos], [data-aos][data-aos][data-aos-delay="500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="500"].aos-animate {
+    transition-delay: 500ms;
+  }
+  body[data-aos-duration="550"] [data-aos], [data-aos][data-aos][data-aos-duration="550"] {
+    transition-duration: 550ms;
+  }
+  body[data-aos-delay="550"] [data-aos], [data-aos][data-aos][data-aos-delay="550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="550"].aos-animate {
+    transition-delay: 550ms;
+  }
+  body[data-aos-duration="600"] [data-aos], [data-aos][data-aos][data-aos-duration="600"] {
+    transition-duration: 600ms;
+  }
+  body[data-aos-delay="600"] [data-aos], [data-aos][data-aos][data-aos-delay="600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="600"].aos-animate {
+    transition-delay: 600ms;
+  }
+  body[data-aos-duration="650"] [data-aos], [data-aos][data-aos][data-aos-duration="650"] {
+    transition-duration: 650ms;
+  }
+  body[data-aos-delay="650"] [data-aos], [data-aos][data-aos][data-aos-delay="650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="650"].aos-animate {
+    transition-delay: 650ms;
+  }
+  body[data-aos-duration="700"] [data-aos], [data-aos][data-aos][data-aos-duration="700"] {
+    transition-duration: 700ms;
+  }
+  body[data-aos-delay="700"] [data-aos], [data-aos][data-aos][data-aos-delay="700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="700"].aos-animate {
+    transition-delay: 700ms;
+  }
+  body[data-aos-duration="750"] [data-aos], [data-aos][data-aos][data-aos-duration="750"] {
+    transition-duration: 750ms;
+  }
+  body[data-aos-delay="750"] [data-aos], [data-aos][data-aos][data-aos-delay="750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="750"].aos-animate {
+    transition-delay: 750ms;
+  }
+  body[data-aos-duration="800"] [data-aos], [data-aos][data-aos][data-aos-duration="800"] {
+    transition-duration: 800ms;
+  }
+  body[data-aos-delay="800"] [data-aos], [data-aos][data-aos][data-aos-delay="800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="800"].aos-animate {
+    transition-delay: 800ms;
+  }
+  body[data-aos-duration="850"] [data-aos], [data-aos][data-aos][data-aos-duration="850"] {
+    transition-duration: 850ms;
+  }
+  body[data-aos-delay="850"] [data-aos], [data-aos][data-aos][data-aos-delay="850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="850"].aos-animate {
+    transition-delay: 850ms;
+  }
+  body[data-aos-duration="900"] [data-aos], [data-aos][data-aos][data-aos-duration="900"] {
+    transition-duration: 900ms;
+  }
+  body[data-aos-delay="900"] [data-aos], [data-aos][data-aos][data-aos-delay="900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="900"].aos-animate {
+    transition-delay: 900ms;
+  }
+  body[data-aos-duration="950"] [data-aos], [data-aos][data-aos][data-aos-duration="950"] {
+    transition-duration: 950ms;
+  }
+  body[data-aos-delay="950"] [data-aos], [data-aos][data-aos][data-aos-delay="950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="950"].aos-animate {
+    transition-delay: 950ms;
+  }
+  body[data-aos-duration="1000"] [data-aos], [data-aos][data-aos][data-aos-duration="1000"] {
+    transition-duration: 1000ms;
+  }
+  body[data-aos-delay="1000"] [data-aos], [data-aos][data-aos][data-aos-delay="1000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1000"].aos-animate {
+    transition-delay: 1000ms;
+  }
+  body[data-aos-duration="1050"] [data-aos], [data-aos][data-aos][data-aos-duration="1050"] {
+    transition-duration: 1050ms;
+  }
+  body[data-aos-delay="1050"] [data-aos], [data-aos][data-aos][data-aos-delay="1050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1050"].aos-animate {
+    transition-delay: 1050ms;
+  }
+  body[data-aos-duration="1100"] [data-aos], [data-aos][data-aos][data-aos-duration="1100"] {
+    transition-duration: 1100ms;
+  }
+  body[data-aos-delay="1100"] [data-aos], [data-aos][data-aos][data-aos-delay="1100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1100"].aos-animate {
+    transition-delay: 1100ms;
+  }
+  body[data-aos-duration="1150"] [data-aos], [data-aos][data-aos][data-aos-duration="1150"] {
+    transition-duration: 1150ms;
+  }
+  body[data-aos-delay="1150"] [data-aos], [data-aos][data-aos][data-aos-delay="1150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1150"].aos-animate {
+    transition-delay: 1150ms;
+  }
+  body[data-aos-duration="1200"] [data-aos], [data-aos][data-aos][data-aos-duration="1200"] {
+    transition-duration: 1200ms;
+  }
+  body[data-aos-delay="1200"] [data-aos], [data-aos][data-aos][data-aos-delay="1200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1200"].aos-animate {
+    transition-delay: 1200ms;
+  }
+  body[data-aos-duration="1250"] [data-aos], [data-aos][data-aos][data-aos-duration="1250"] {
+    transition-duration: 1250ms;
+  }
+  body[data-aos-delay="1250"] [data-aos], [data-aos][data-aos][data-aos-delay="1250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1250"].aos-animate {
+    transition-delay: 1250ms;
+  }
+  body[data-aos-duration="1300"] [data-aos], [data-aos][data-aos][data-aos-duration="1300"] {
+    transition-duration: 1300ms;
+  }
+  body[data-aos-delay="1300"] [data-aos], [data-aos][data-aos][data-aos-delay="1300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1300"].aos-animate {
+    transition-delay: 1300ms;
+  }
+  body[data-aos-duration="1350"] [data-aos], [data-aos][data-aos][data-aos-duration="1350"] {
+    transition-duration: 1350ms;
+  }
+  body[data-aos-delay="1350"] [data-aos], [data-aos][data-aos][data-aos-delay="1350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1350"].aos-animate {
+    transition-delay: 1350ms;
+  }
+  body[data-aos-duration="1400"] [data-aos], [data-aos][data-aos][data-aos-duration="1400"] {
+    transition-duration: 1400ms;
+  }
+  body[data-aos-delay="1400"] [data-aos], [data-aos][data-aos][data-aos-delay="1400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1400"].aos-animate {
+    transition-delay: 1400ms;
+  }
+  body[data-aos-duration="1450"] [data-aos], [data-aos][data-aos][data-aos-duration="1450"] {
+    transition-duration: 1450ms;
+  }
+  body[data-aos-delay="1450"] [data-aos], [data-aos][data-aos][data-aos-delay="1450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1450"].aos-animate {
+    transition-delay: 1450ms;
+  }
+  body[data-aos-duration="1500"] [data-aos], [data-aos][data-aos][data-aos-duration="1500"] {
+    transition-duration: 1500ms;
+  }
+  body[data-aos-delay="1500"] [data-aos], [data-aos][data-aos][data-aos-delay="1500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1500"].aos-animate {
+    transition-delay: 1500ms;
+  }
+  body[data-aos-duration="1550"] [data-aos], [data-aos][data-aos][data-aos-duration="1550"] {
+    transition-duration: 1550ms;
+  }
+  body[data-aos-delay="1550"] [data-aos], [data-aos][data-aos][data-aos-delay="1550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1550"].aos-animate {
+    transition-delay: 1550ms;
+  }
+  body[data-aos-duration="1600"] [data-aos], [data-aos][data-aos][data-aos-duration="1600"] {
+    transition-duration: 1600ms;
+  }
+  body[data-aos-delay="1600"] [data-aos], [data-aos][data-aos][data-aos-delay="1600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1600"].aos-animate {
+    transition-delay: 1600ms;
+  }
+  body[data-aos-duration="1650"] [data-aos], [data-aos][data-aos][data-aos-duration="1650"] {
+    transition-duration: 1650ms;
+  }
+  body[data-aos-delay="1650"] [data-aos], [data-aos][data-aos][data-aos-delay="1650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1650"].aos-animate {
+    transition-delay: 1650ms;
+  }
+  body[data-aos-duration="1700"] [data-aos], [data-aos][data-aos][data-aos-duration="1700"] {
+    transition-duration: 1700ms;
+  }
+  body[data-aos-delay="1700"] [data-aos], [data-aos][data-aos][data-aos-delay="1700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1700"].aos-animate {
+    transition-delay: 1700ms;
+  }
+  body[data-aos-duration="1750"] [data-aos], [data-aos][data-aos][data-aos-duration="1750"] {
+    transition-duration: 1750ms;
+  }
+  body[data-aos-delay="1750"] [data-aos], [data-aos][data-aos][data-aos-delay="1750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1750"].aos-animate {
+    transition-delay: 1750ms;
+  }
+  body[data-aos-duration="1800"] [data-aos], [data-aos][data-aos][data-aos-duration="1800"] {
+    transition-duration: 1800ms;
+  }
+  body[data-aos-delay="1800"] [data-aos], [data-aos][data-aos][data-aos-delay="1800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1800"].aos-animate {
+    transition-delay: 1800ms;
+  }
+  body[data-aos-duration="1850"] [data-aos], [data-aos][data-aos][data-aos-duration="1850"] {
+    transition-duration: 1850ms;
+  }
+  body[data-aos-delay="1850"] [data-aos], [data-aos][data-aos][data-aos-delay="1850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1850"].aos-animate {
+    transition-delay: 1850ms;
+  }
+  body[data-aos-duration="1900"] [data-aos], [data-aos][data-aos][data-aos-duration="1900"] {
+    transition-duration: 1900ms;
+  }
+  body[data-aos-delay="1900"] [data-aos], [data-aos][data-aos][data-aos-delay="1900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1900"].aos-animate {
+    transition-delay: 1900ms;
+  }
+  body[data-aos-duration="1950"] [data-aos], [data-aos][data-aos][data-aos-duration="1950"] {
+    transition-duration: 1950ms;
+  }
+  body[data-aos-delay="1950"] [data-aos], [data-aos][data-aos][data-aos-delay="1950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="1950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="1950"].aos-animate {
+    transition-delay: 1950ms;
+  }
+  body[data-aos-duration="2000"] [data-aos], [data-aos][data-aos][data-aos-duration="2000"] {
+    transition-duration: 2000ms;
+  }
+  body[data-aos-delay="2000"] [data-aos], [data-aos][data-aos][data-aos-delay="2000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2000"].aos-animate {
+    transition-delay: 2000ms;
+  }
+  body[data-aos-duration="2050"] [data-aos], [data-aos][data-aos][data-aos-duration="2050"] {
+    transition-duration: 2050ms;
+  }
+  body[data-aos-delay="2050"] [data-aos], [data-aos][data-aos][data-aos-delay="2050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2050"].aos-animate {
+    transition-delay: 2050ms;
+  }
+  body[data-aos-duration="2100"] [data-aos], [data-aos][data-aos][data-aos-duration="2100"] {
+    transition-duration: 2100ms;
+  }
+  body[data-aos-delay="2100"] [data-aos], [data-aos][data-aos][data-aos-delay="2100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2100"].aos-animate {
+    transition-delay: 2100ms;
+  }
+  body[data-aos-duration="2150"] [data-aos], [data-aos][data-aos][data-aos-duration="2150"] {
+    transition-duration: 2150ms;
+  }
+  body[data-aos-delay="2150"] [data-aos], [data-aos][data-aos][data-aos-delay="2150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2150"].aos-animate {
+    transition-delay: 2150ms;
+  }
+  body[data-aos-duration="2200"] [data-aos], [data-aos][data-aos][data-aos-duration="2200"] {
+    transition-duration: 2200ms;
+  }
+  body[data-aos-delay="2200"] [data-aos], [data-aos][data-aos][data-aos-delay="2200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2200"].aos-animate {
+    transition-delay: 2200ms;
+  }
+  body[data-aos-duration="2250"] [data-aos], [data-aos][data-aos][data-aos-duration="2250"] {
+    transition-duration: 2250ms;
+  }
+  body[data-aos-delay="2250"] [data-aos], [data-aos][data-aos][data-aos-delay="2250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2250"].aos-animate {
+    transition-delay: 2250ms;
+  }
+  body[data-aos-duration="2300"] [data-aos], [data-aos][data-aos][data-aos-duration="2300"] {
+    transition-duration: 2300ms;
+  }
+  body[data-aos-delay="2300"] [data-aos], [data-aos][data-aos][data-aos-delay="2300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2300"].aos-animate {
+    transition-delay: 2300ms;
+  }
+  body[data-aos-duration="2350"] [data-aos], [data-aos][data-aos][data-aos-duration="2350"] {
+    transition-duration: 2350ms;
+  }
+  body[data-aos-delay="2350"] [data-aos], [data-aos][data-aos][data-aos-delay="2350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2350"].aos-animate {
+    transition-delay: 2350ms;
+  }
+  body[data-aos-duration="2400"] [data-aos], [data-aos][data-aos][data-aos-duration="2400"] {
+    transition-duration: 2400ms;
+  }
+  body[data-aos-delay="2400"] [data-aos], [data-aos][data-aos][data-aos-delay="2400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2400"].aos-animate {
+    transition-delay: 2400ms;
+  }
+  body[data-aos-duration="2450"] [data-aos], [data-aos][data-aos][data-aos-duration="2450"] {
+    transition-duration: 2450ms;
+  }
+  body[data-aos-delay="2450"] [data-aos], [data-aos][data-aos][data-aos-delay="2450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2450"].aos-animate {
+    transition-delay: 2450ms;
+  }
+  body[data-aos-duration="2500"] [data-aos], [data-aos][data-aos][data-aos-duration="2500"] {
+    transition-duration: 2500ms;
+  }
+  body[data-aos-delay="2500"] [data-aos], [data-aos][data-aos][data-aos-delay="2500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2500"].aos-animate {
+    transition-delay: 2500ms;
+  }
+  body[data-aos-duration="2550"] [data-aos], [data-aos][data-aos][data-aos-duration="2550"] {
+    transition-duration: 2550ms;
+  }
+  body[data-aos-delay="2550"] [data-aos], [data-aos][data-aos][data-aos-delay="2550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2550"].aos-animate {
+    transition-delay: 2550ms;
+  }
+  body[data-aos-duration="2600"] [data-aos], [data-aos][data-aos][data-aos-duration="2600"] {
+    transition-duration: 2600ms;
+  }
+  body[data-aos-delay="2600"] [data-aos], [data-aos][data-aos][data-aos-delay="2600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2600"].aos-animate {
+    transition-delay: 2600ms;
+  }
+  body[data-aos-duration="2650"] [data-aos], [data-aos][data-aos][data-aos-duration="2650"] {
+    transition-duration: 2650ms;
+  }
+  body[data-aos-delay="2650"] [data-aos], [data-aos][data-aos][data-aos-delay="2650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2650"].aos-animate {
+    transition-delay: 2650ms;
+  }
+  body[data-aos-duration="2700"] [data-aos], [data-aos][data-aos][data-aos-duration="2700"] {
+    transition-duration: 2700ms;
+  }
+  body[data-aos-delay="2700"] [data-aos], [data-aos][data-aos][data-aos-delay="2700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2700"].aos-animate {
+    transition-delay: 2700ms;
+  }
+  body[data-aos-duration="2750"] [data-aos], [data-aos][data-aos][data-aos-duration="2750"] {
+    transition-duration: 2750ms;
+  }
+  body[data-aos-delay="2750"] [data-aos], [data-aos][data-aos][data-aos-delay="2750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2750"].aos-animate {
+    transition-delay: 2750ms;
+  }
+  body[data-aos-duration="2800"] [data-aos], [data-aos][data-aos][data-aos-duration="2800"] {
+    transition-duration: 2800ms;
+  }
+  body[data-aos-delay="2800"] [data-aos], [data-aos][data-aos][data-aos-delay="2800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2800"].aos-animate {
+    transition-delay: 2800ms;
+  }
+  body[data-aos-duration="2850"] [data-aos], [data-aos][data-aos][data-aos-duration="2850"] {
+    transition-duration: 2850ms;
+  }
+  body[data-aos-delay="2850"] [data-aos], [data-aos][data-aos][data-aos-delay="2850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2850"].aos-animate {
+    transition-delay: 2850ms;
+  }
+  body[data-aos-duration="2900"] [data-aos], [data-aos][data-aos][data-aos-duration="2900"] {
+    transition-duration: 2900ms;
+  }
+  body[data-aos-delay="2900"] [data-aos], [data-aos][data-aos][data-aos-delay="2900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2900"].aos-animate {
+    transition-delay: 2900ms;
+  }
+  body[data-aos-duration="2950"] [data-aos], [data-aos][data-aos][data-aos-duration="2950"] {
+    transition-duration: 2950ms;
+  }
+  body[data-aos-delay="2950"] [data-aos], [data-aos][data-aos][data-aos-delay="2950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="2950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="2950"].aos-animate {
+    transition-delay: 2950ms;
+  }
+  body[data-aos-duration="3000"] [data-aos], [data-aos][data-aos][data-aos-duration="3000"] {
+    transition-duration: 3000ms;
+  }
+  body[data-aos-delay="3000"] [data-aos], [data-aos][data-aos][data-aos-delay="3000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3000"].aos-animate {
+    transition-delay: 3000ms;
+  }
+  body[data-aos-duration="3050"] [data-aos], [data-aos][data-aos][data-aos-duration="3050"] {
+    transition-duration: 3050ms;
+  }
+  body[data-aos-delay="3050"] [data-aos], [data-aos][data-aos][data-aos-delay="3050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3050"].aos-animate {
+    transition-delay: 3050ms;
+  }
+  body[data-aos-duration="3100"] [data-aos], [data-aos][data-aos][data-aos-duration="3100"] {
+    transition-duration: 3100ms;
+  }
+  body[data-aos-delay="3100"] [data-aos], [data-aos][data-aos][data-aos-delay="3100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3100"].aos-animate {
+    transition-delay: 3100ms;
+  }
+  body[data-aos-duration="3150"] [data-aos], [data-aos][data-aos][data-aos-duration="3150"] {
+    transition-duration: 3150ms;
+  }
+  body[data-aos-delay="3150"] [data-aos], [data-aos][data-aos][data-aos-delay="3150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3150"].aos-animate {
+    transition-delay: 3150ms;
+  }
+  body[data-aos-duration="3200"] [data-aos], [data-aos][data-aos][data-aos-duration="3200"] {
+    transition-duration: 3200ms;
+  }
+  body[data-aos-delay="3200"] [data-aos], [data-aos][data-aos][data-aos-delay="3200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3200"].aos-animate {
+    transition-delay: 3200ms;
+  }
+  body[data-aos-duration="3250"] [data-aos], [data-aos][data-aos][data-aos-duration="3250"] {
+    transition-duration: 3250ms;
+  }
+  body[data-aos-delay="3250"] [data-aos], [data-aos][data-aos][data-aos-delay="3250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3250"].aos-animate {
+    transition-delay: 3250ms;
+  }
+  body[data-aos-duration="3300"] [data-aos], [data-aos][data-aos][data-aos-duration="3300"] {
+    transition-duration: 3300ms;
+  }
+  body[data-aos-delay="3300"] [data-aos], [data-aos][data-aos][data-aos-delay="3300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3300"].aos-animate {
+    transition-delay: 3300ms;
+  }
+  body[data-aos-duration="3350"] [data-aos], [data-aos][data-aos][data-aos-duration="3350"] {
+    transition-duration: 3350ms;
+  }
+  body[data-aos-delay="3350"] [data-aos], [data-aos][data-aos][data-aos-delay="3350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3350"].aos-animate {
+    transition-delay: 3350ms;
+  }
+  body[data-aos-duration="3400"] [data-aos], [data-aos][data-aos][data-aos-duration="3400"] {
+    transition-duration: 3400ms;
+  }
+  body[data-aos-delay="3400"] [data-aos], [data-aos][data-aos][data-aos-delay="3400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3400"].aos-animate {
+    transition-delay: 3400ms;
+  }
+  body[data-aos-duration="3450"] [data-aos], [data-aos][data-aos][data-aos-duration="3450"] {
+    transition-duration: 3450ms;
+  }
+  body[data-aos-delay="3450"] [data-aos], [data-aos][data-aos][data-aos-delay="3450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3450"].aos-animate {
+    transition-delay: 3450ms;
+  }
+  body[data-aos-duration="3500"] [data-aos], [data-aos][data-aos][data-aos-duration="3500"] {
+    transition-duration: 3500ms;
+  }
+  body[data-aos-delay="3500"] [data-aos], [data-aos][data-aos][data-aos-delay="3500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3500"].aos-animate {
+    transition-delay: 3500ms;
+  }
+  body[data-aos-duration="3550"] [data-aos], [data-aos][data-aos][data-aos-duration="3550"] {
+    transition-duration: 3550ms;
+  }
+  body[data-aos-delay="3550"] [data-aos], [data-aos][data-aos][data-aos-delay="3550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3550"].aos-animate {
+    transition-delay: 3550ms;
+  }
+  body[data-aos-duration="3600"] [data-aos], [data-aos][data-aos][data-aos-duration="3600"] {
+    transition-duration: 3600ms;
+  }
+  body[data-aos-delay="3600"] [data-aos], [data-aos][data-aos][data-aos-delay="3600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3600"].aos-animate {
+    transition-delay: 3600ms;
+  }
+  body[data-aos-duration="3650"] [data-aos], [data-aos][data-aos][data-aos-duration="3650"] {
+    transition-duration: 3650ms;
+  }
+  body[data-aos-delay="3650"] [data-aos], [data-aos][data-aos][data-aos-delay="3650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3650"].aos-animate {
+    transition-delay: 3650ms;
+  }
+  body[data-aos-duration="3700"] [data-aos], [data-aos][data-aos][data-aos-duration="3700"] {
+    transition-duration: 3700ms;
+  }
+  body[data-aos-delay="3700"] [data-aos], [data-aos][data-aos][data-aos-delay="3700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3700"].aos-animate {
+    transition-delay: 3700ms;
+  }
+  body[data-aos-duration="3750"] [data-aos], [data-aos][data-aos][data-aos-duration="3750"] {
+    transition-duration: 3750ms;
+  }
+  body[data-aos-delay="3750"] [data-aos], [data-aos][data-aos][data-aos-delay="3750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3750"].aos-animate {
+    transition-delay: 3750ms;
+  }
+  body[data-aos-duration="3800"] [data-aos], [data-aos][data-aos][data-aos-duration="3800"] {
+    transition-duration: 3800ms;
+  }
+  body[data-aos-delay="3800"] [data-aos], [data-aos][data-aos][data-aos-delay="3800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3800"].aos-animate {
+    transition-delay: 3800ms;
+  }
+  body[data-aos-duration="3850"] [data-aos], [data-aos][data-aos][data-aos-duration="3850"] {
+    transition-duration: 3850ms;
+  }
+  body[data-aos-delay="3850"] [data-aos], [data-aos][data-aos][data-aos-delay="3850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3850"].aos-animate {
+    transition-delay: 3850ms;
+  }
+  body[data-aos-duration="3900"] [data-aos], [data-aos][data-aos][data-aos-duration="3900"] {
+    transition-duration: 3900ms;
+  }
+  body[data-aos-delay="3900"] [data-aos], [data-aos][data-aos][data-aos-delay="3900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3900"].aos-animate {
+    transition-delay: 3900ms;
+  }
+  body[data-aos-duration="3950"] [data-aos], [data-aos][data-aos][data-aos-duration="3950"] {
+    transition-duration: 3950ms;
+  }
+  body[data-aos-delay="3950"] [data-aos], [data-aos][data-aos][data-aos-delay="3950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="3950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="3950"].aos-animate {
+    transition-delay: 3950ms;
+  }
+  body[data-aos-duration="4000"] [data-aos], [data-aos][data-aos][data-aos-duration="4000"] {
+    transition-duration: 4000ms;
+  }
+  body[data-aos-delay="4000"] [data-aos], [data-aos][data-aos][data-aos-delay="4000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4000"].aos-animate {
+    transition-delay: 4000ms;
+  }
+  body[data-aos-duration="4050"] [data-aos], [data-aos][data-aos][data-aos-duration="4050"] {
+    transition-duration: 4050ms;
+  }
+  body[data-aos-delay="4050"] [data-aos], [data-aos][data-aos][data-aos-delay="4050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4050"].aos-animate {
+    transition-delay: 4050ms;
+  }
+  body[data-aos-duration="4100"] [data-aos], [data-aos][data-aos][data-aos-duration="4100"] {
+    transition-duration: 4100ms;
+  }
+  body[data-aos-delay="4100"] [data-aos], [data-aos][data-aos][data-aos-delay="4100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4100"].aos-animate {
+    transition-delay: 4100ms;
+  }
+  body[data-aos-duration="4150"] [data-aos], [data-aos][data-aos][data-aos-duration="4150"] {
+    transition-duration: 4150ms;
+  }
+  body[data-aos-delay="4150"] [data-aos], [data-aos][data-aos][data-aos-delay="4150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4150"].aos-animate {
+    transition-delay: 4150ms;
+  }
+  body[data-aos-duration="4200"] [data-aos], [data-aos][data-aos][data-aos-duration="4200"] {
+    transition-duration: 4200ms;
+  }
+  body[data-aos-delay="4200"] [data-aos], [data-aos][data-aos][data-aos-delay="4200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4200"].aos-animate {
+    transition-delay: 4200ms;
+  }
+  body[data-aos-duration="4250"] [data-aos], [data-aos][data-aos][data-aos-duration="4250"] {
+    transition-duration: 4250ms;
+  }
+  body[data-aos-delay="4250"] [data-aos], [data-aos][data-aos][data-aos-delay="4250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4250"].aos-animate {
+    transition-delay: 4250ms;
+  }
+  body[data-aos-duration="4300"] [data-aos], [data-aos][data-aos][data-aos-duration="4300"] {
+    transition-duration: 4300ms;
+  }
+  body[data-aos-delay="4300"] [data-aos], [data-aos][data-aos][data-aos-delay="4300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4300"].aos-animate {
+    transition-delay: 4300ms;
+  }
+  body[data-aos-duration="4350"] [data-aos], [data-aos][data-aos][data-aos-duration="4350"] {
+    transition-duration: 4350ms;
+  }
+  body[data-aos-delay="4350"] [data-aos], [data-aos][data-aos][data-aos-delay="4350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4350"].aos-animate {
+    transition-delay: 4350ms;
+  }
+  body[data-aos-duration="4400"] [data-aos], [data-aos][data-aos][data-aos-duration="4400"] {
+    transition-duration: 4400ms;
+  }
+  body[data-aos-delay="4400"] [data-aos], [data-aos][data-aos][data-aos-delay="4400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4400"].aos-animate {
+    transition-delay: 4400ms;
+  }
+  body[data-aos-duration="4450"] [data-aos], [data-aos][data-aos][data-aos-duration="4450"] {
+    transition-duration: 4450ms;
+  }
+  body[data-aos-delay="4450"] [data-aos], [data-aos][data-aos][data-aos-delay="4450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4450"].aos-animate {
+    transition-delay: 4450ms;
+  }
+  body[data-aos-duration="4500"] [data-aos], [data-aos][data-aos][data-aos-duration="4500"] {
+    transition-duration: 4500ms;
+  }
+  body[data-aos-delay="4500"] [data-aos], [data-aos][data-aos][data-aos-delay="4500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4500"].aos-animate {
+    transition-delay: 4500ms;
+  }
+  body[data-aos-duration="4550"] [data-aos], [data-aos][data-aos][data-aos-duration="4550"] {
+    transition-duration: 4550ms;
+  }
+  body[data-aos-delay="4550"] [data-aos], [data-aos][data-aos][data-aos-delay="4550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4550"].aos-animate {
+    transition-delay: 4550ms;
+  }
+  body[data-aos-duration="4600"] [data-aos], [data-aos][data-aos][data-aos-duration="4600"] {
+    transition-duration: 4600ms;
+  }
+  body[data-aos-delay="4600"] [data-aos], [data-aos][data-aos][data-aos-delay="4600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4600"].aos-animate {
+    transition-delay: 4600ms;
+  }
+  body[data-aos-duration="4650"] [data-aos], [data-aos][data-aos][data-aos-duration="4650"] {
+    transition-duration: 4650ms;
+  }
+  body[data-aos-delay="4650"] [data-aos], [data-aos][data-aos][data-aos-delay="4650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4650"].aos-animate {
+    transition-delay: 4650ms;
+  }
+  body[data-aos-duration="4700"] [data-aos], [data-aos][data-aos][data-aos-duration="4700"] {
+    transition-duration: 4700ms;
+  }
+  body[data-aos-delay="4700"] [data-aos], [data-aos][data-aos][data-aos-delay="4700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4700"].aos-animate {
+    transition-delay: 4700ms;
+  }
+  body[data-aos-duration="4750"] [data-aos], [data-aos][data-aos][data-aos-duration="4750"] {
+    transition-duration: 4750ms;
+  }
+  body[data-aos-delay="4750"] [data-aos], [data-aos][data-aos][data-aos-delay="4750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4750"].aos-animate {
+    transition-delay: 4750ms;
+  }
+  body[data-aos-duration="4800"] [data-aos], [data-aos][data-aos][data-aos-duration="4800"] {
+    transition-duration: 4800ms;
+  }
+  body[data-aos-delay="4800"] [data-aos], [data-aos][data-aos][data-aos-delay="4800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4800"].aos-animate {
+    transition-delay: 4800ms;
+  }
+  body[data-aos-duration="4850"] [data-aos], [data-aos][data-aos][data-aos-duration="4850"] {
+    transition-duration: 4850ms;
+  }
+  body[data-aos-delay="4850"] [data-aos], [data-aos][data-aos][data-aos-delay="4850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4850"].aos-animate {
+    transition-delay: 4850ms;
+  }
+  body[data-aos-duration="4900"] [data-aos], [data-aos][data-aos][data-aos-duration="4900"] {
+    transition-duration: 4900ms;
+  }
+  body[data-aos-delay="4900"] [data-aos], [data-aos][data-aos][data-aos-delay="4900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4900"].aos-animate {
+    transition-delay: 4900ms;
+  }
+  body[data-aos-duration="4950"] [data-aos], [data-aos][data-aos][data-aos-duration="4950"] {
+    transition-duration: 4950ms;
+  }
+  body[data-aos-delay="4950"] [data-aos], [data-aos][data-aos][data-aos-delay="4950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="4950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="4950"].aos-animate {
+    transition-delay: 4950ms;
+  }
+  body[data-aos-duration="5000"] [data-aos], [data-aos][data-aos][data-aos-duration="5000"] {
+    transition-duration: 5000ms;
+  }
+  body[data-aos-delay="5000"] [data-aos], [data-aos][data-aos][data-aos-delay="5000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5000"].aos-animate {
+    transition-delay: 5000ms;
+  }
+  body[data-aos-duration="5050"] [data-aos], [data-aos][data-aos][data-aos-duration="5050"] {
+    transition-duration: 5050ms;
+  }
+  body[data-aos-delay="5050"] [data-aos], [data-aos][data-aos][data-aos-delay="5050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5050"].aos-animate {
+    transition-delay: 5050ms;
+  }
+  body[data-aos-duration="5100"] [data-aos], [data-aos][data-aos][data-aos-duration="5100"] {
+    transition-duration: 5100ms;
+  }
+  body[data-aos-delay="5100"] [data-aos], [data-aos][data-aos][data-aos-delay="5100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5100"].aos-animate {
+    transition-delay: 5100ms;
+  }
+  body[data-aos-duration="5150"] [data-aos], [data-aos][data-aos][data-aos-duration="5150"] {
+    transition-duration: 5150ms;
+  }
+  body[data-aos-delay="5150"] [data-aos], [data-aos][data-aos][data-aos-delay="5150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5150"].aos-animate {
+    transition-delay: 5150ms;
+  }
+  body[data-aos-duration="5200"] [data-aos], [data-aos][data-aos][data-aos-duration="5200"] {
+    transition-duration: 5200ms;
+  }
+  body[data-aos-delay="5200"] [data-aos], [data-aos][data-aos][data-aos-delay="5200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5200"].aos-animate {
+    transition-delay: 5200ms;
+  }
+  body[data-aos-duration="5250"] [data-aos], [data-aos][data-aos][data-aos-duration="5250"] {
+    transition-duration: 5250ms;
+  }
+  body[data-aos-delay="5250"] [data-aos], [data-aos][data-aos][data-aos-delay="5250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5250"].aos-animate {
+    transition-delay: 5250ms;
+  }
+  body[data-aos-duration="5300"] [data-aos], [data-aos][data-aos][data-aos-duration="5300"] {
+    transition-duration: 5300ms;
+  }
+  body[data-aos-delay="5300"] [data-aos], [data-aos][data-aos][data-aos-delay="5300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5300"].aos-animate {
+    transition-delay: 5300ms;
+  }
+  body[data-aos-duration="5350"] [data-aos], [data-aos][data-aos][data-aos-duration="5350"] {
+    transition-duration: 5350ms;
+  }
+  body[data-aos-delay="5350"] [data-aos], [data-aos][data-aos][data-aos-delay="5350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5350"].aos-animate {
+    transition-delay: 5350ms;
+  }
+  body[data-aos-duration="5400"] [data-aos], [data-aos][data-aos][data-aos-duration="5400"] {
+    transition-duration: 5400ms;
+  }
+  body[data-aos-delay="5400"] [data-aos], [data-aos][data-aos][data-aos-delay="5400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5400"].aos-animate {
+    transition-delay: 5400ms;
+  }
+  body[data-aos-duration="5450"] [data-aos], [data-aos][data-aos][data-aos-duration="5450"] {
+    transition-duration: 5450ms;
+  }
+  body[data-aos-delay="5450"] [data-aos], [data-aos][data-aos][data-aos-delay="5450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5450"].aos-animate {
+    transition-delay: 5450ms;
+  }
+  body[data-aos-duration="5500"] [data-aos], [data-aos][data-aos][data-aos-duration="5500"] {
+    transition-duration: 5500ms;
+  }
+  body[data-aos-delay="5500"] [data-aos], [data-aos][data-aos][data-aos-delay="5500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5500"].aos-animate {
+    transition-delay: 5500ms;
+  }
+  body[data-aos-duration="5550"] [data-aos], [data-aos][data-aos][data-aos-duration="5550"] {
+    transition-duration: 5550ms;
+  }
+  body[data-aos-delay="5550"] [data-aos], [data-aos][data-aos][data-aos-delay="5550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5550"].aos-animate {
+    transition-delay: 5550ms;
+  }
+  body[data-aos-duration="5600"] [data-aos], [data-aos][data-aos][data-aos-duration="5600"] {
+    transition-duration: 5600ms;
+  }
+  body[data-aos-delay="5600"] [data-aos], [data-aos][data-aos][data-aos-delay="5600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5600"].aos-animate {
+    transition-delay: 5600ms;
+  }
+  body[data-aos-duration="5650"] [data-aos], [data-aos][data-aos][data-aos-duration="5650"] {
+    transition-duration: 5650ms;
+  }
+  body[data-aos-delay="5650"] [data-aos], [data-aos][data-aos][data-aos-delay="5650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5650"].aos-animate {
+    transition-delay: 5650ms;
+  }
+  body[data-aos-duration="5700"] [data-aos], [data-aos][data-aos][data-aos-duration="5700"] {
+    transition-duration: 5700ms;
+  }
+  body[data-aos-delay="5700"] [data-aos], [data-aos][data-aos][data-aos-delay="5700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5700"].aos-animate {
+    transition-delay: 5700ms;
+  }
+  body[data-aos-duration="5750"] [data-aos], [data-aos][data-aos][data-aos-duration="5750"] {
+    transition-duration: 5750ms;
+  }
+  body[data-aos-delay="5750"] [data-aos], [data-aos][data-aos][data-aos-delay="5750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5750"].aos-animate {
+    transition-delay: 5750ms;
+  }
+  body[data-aos-duration="5800"] [data-aos], [data-aos][data-aos][data-aos-duration="5800"] {
+    transition-duration: 5800ms;
+  }
+  body[data-aos-delay="5800"] [data-aos], [data-aos][data-aos][data-aos-delay="5800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5800"].aos-animate {
+    transition-delay: 5800ms;
+  }
+  body[data-aos-duration="5850"] [data-aos], [data-aos][data-aos][data-aos-duration="5850"] {
+    transition-duration: 5850ms;
+  }
+  body[data-aos-delay="5850"] [data-aos], [data-aos][data-aos][data-aos-delay="5850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5850"].aos-animate {
+    transition-delay: 5850ms;
+  }
+  body[data-aos-duration="5900"] [data-aos], [data-aos][data-aos][data-aos-duration="5900"] {
+    transition-duration: 5900ms;
+  }
+  body[data-aos-delay="5900"] [data-aos], [data-aos][data-aos][data-aos-delay="5900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5900"].aos-animate {
+    transition-delay: 5900ms;
+  }
+  body[data-aos-duration="5950"] [data-aos], [data-aos][data-aos][data-aos-duration="5950"] {
+    transition-duration: 5950ms;
+  }
+  body[data-aos-delay="5950"] [data-aos], [data-aos][data-aos][data-aos-delay="5950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="5950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="5950"].aos-animate {
+    transition-delay: 5950ms;
+  }
+  body[data-aos-duration="6000"] [data-aos], [data-aos][data-aos][data-aos-duration="6000"] {
+    transition-duration: 6000ms;
+  }
+  body[data-aos-delay="6000"] [data-aos], [data-aos][data-aos][data-aos-delay="6000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6000"].aos-animate {
+    transition-delay: 6000ms;
+  }
+  body[data-aos-duration="6050"] [data-aos], [data-aos][data-aos][data-aos-duration="6050"] {
+    transition-duration: 6050ms;
+  }
+  body[data-aos-delay="6050"] [data-aos], [data-aos][data-aos][data-aos-delay="6050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6050"].aos-animate {
+    transition-delay: 6050ms;
+  }
+  body[data-aos-duration="6100"] [data-aos], [data-aos][data-aos][data-aos-duration="6100"] {
+    transition-duration: 6100ms;
+  }
+  body[data-aos-delay="6100"] [data-aos], [data-aos][data-aos][data-aos-delay="6100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6100"].aos-animate {
+    transition-delay: 6100ms;
+  }
+  body[data-aos-duration="6150"] [data-aos], [data-aos][data-aos][data-aos-duration="6150"] {
+    transition-duration: 6150ms;
+  }
+  body[data-aos-delay="6150"] [data-aos], [data-aos][data-aos][data-aos-delay="6150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6150"].aos-animate {
+    transition-delay: 6150ms;
+  }
+  body[data-aos-duration="6200"] [data-aos], [data-aos][data-aos][data-aos-duration="6200"] {
+    transition-duration: 6200ms;
+  }
+  body[data-aos-delay="6200"] [data-aos], [data-aos][data-aos][data-aos-delay="6200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6200"].aos-animate {
+    transition-delay: 6200ms;
+  }
+  body[data-aos-duration="6250"] [data-aos], [data-aos][data-aos][data-aos-duration="6250"] {
+    transition-duration: 6250ms;
+  }
+  body[data-aos-delay="6250"] [data-aos], [data-aos][data-aos][data-aos-delay="6250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6250"].aos-animate {
+    transition-delay: 6250ms;
+  }
+  body[data-aos-duration="6300"] [data-aos], [data-aos][data-aos][data-aos-duration="6300"] {
+    transition-duration: 6300ms;
+  }
+  body[data-aos-delay="6300"] [data-aos], [data-aos][data-aos][data-aos-delay="6300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6300"].aos-animate {
+    transition-delay: 6300ms;
+  }
+  body[data-aos-duration="6350"] [data-aos], [data-aos][data-aos][data-aos-duration="6350"] {
+    transition-duration: 6350ms;
+  }
+  body[data-aos-delay="6350"] [data-aos], [data-aos][data-aos][data-aos-delay="6350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6350"].aos-animate {
+    transition-delay: 6350ms;
+  }
+  body[data-aos-duration="6400"] [data-aos], [data-aos][data-aos][data-aos-duration="6400"] {
+    transition-duration: 6400ms;
+  }
+  body[data-aos-delay="6400"] [data-aos], [data-aos][data-aos][data-aos-delay="6400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6400"].aos-animate {
+    transition-delay: 6400ms;
+  }
+  body[data-aos-duration="6450"] [data-aos], [data-aos][data-aos][data-aos-duration="6450"] {
+    transition-duration: 6450ms;
+  }
+  body[data-aos-delay="6450"] [data-aos], [data-aos][data-aos][data-aos-delay="6450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6450"].aos-animate {
+    transition-delay: 6450ms;
+  }
+  body[data-aos-duration="6500"] [data-aos], [data-aos][data-aos][data-aos-duration="6500"] {
+    transition-duration: 6500ms;
+  }
+  body[data-aos-delay="6500"] [data-aos], [data-aos][data-aos][data-aos-delay="6500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6500"].aos-animate {
+    transition-delay: 6500ms;
+  }
+  body[data-aos-duration="6550"] [data-aos], [data-aos][data-aos][data-aos-duration="6550"] {
+    transition-duration: 6550ms;
+  }
+  body[data-aos-delay="6550"] [data-aos], [data-aos][data-aos][data-aos-delay="6550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6550"].aos-animate {
+    transition-delay: 6550ms;
+  }
+  body[data-aos-duration="6600"] [data-aos], [data-aos][data-aos][data-aos-duration="6600"] {
+    transition-duration: 6600ms;
+  }
+  body[data-aos-delay="6600"] [data-aos], [data-aos][data-aos][data-aos-delay="6600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6600"].aos-animate {
+    transition-delay: 6600ms;
+  }
+  body[data-aos-duration="6650"] [data-aos], [data-aos][data-aos][data-aos-duration="6650"] {
+    transition-duration: 6650ms;
+  }
+  body[data-aos-delay="6650"] [data-aos], [data-aos][data-aos][data-aos-delay="6650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6650"].aos-animate {
+    transition-delay: 6650ms;
+  }
+  body[data-aos-duration="6700"] [data-aos], [data-aos][data-aos][data-aos-duration="6700"] {
+    transition-duration: 6700ms;
+  }
+  body[data-aos-delay="6700"] [data-aos], [data-aos][data-aos][data-aos-delay="6700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6700"].aos-animate {
+    transition-delay: 6700ms;
+  }
+  body[data-aos-duration="6750"] [data-aos], [data-aos][data-aos][data-aos-duration="6750"] {
+    transition-duration: 6750ms;
+  }
+  body[data-aos-delay="6750"] [data-aos], [data-aos][data-aos][data-aos-delay="6750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6750"].aos-animate {
+    transition-delay: 6750ms;
+  }
+  body[data-aos-duration="6800"] [data-aos], [data-aos][data-aos][data-aos-duration="6800"] {
+    transition-duration: 6800ms;
+  }
+  body[data-aos-delay="6800"] [data-aos], [data-aos][data-aos][data-aos-delay="6800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6800"].aos-animate {
+    transition-delay: 6800ms;
+  }
+  body[data-aos-duration="6850"] [data-aos], [data-aos][data-aos][data-aos-duration="6850"] {
+    transition-duration: 6850ms;
+  }
+  body[data-aos-delay="6850"] [data-aos], [data-aos][data-aos][data-aos-delay="6850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6850"].aos-animate {
+    transition-delay: 6850ms;
+  }
+  body[data-aos-duration="6900"] [data-aos], [data-aos][data-aos][data-aos-duration="6900"] {
+    transition-duration: 6900ms;
+  }
+  body[data-aos-delay="6900"] [data-aos], [data-aos][data-aos][data-aos-delay="6900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6900"].aos-animate {
+    transition-delay: 6900ms;
+  }
+  body[data-aos-duration="6950"] [data-aos], [data-aos][data-aos][data-aos-duration="6950"] {
+    transition-duration: 6950ms;
+  }
+  body[data-aos-delay="6950"] [data-aos], [data-aos][data-aos][data-aos-delay="6950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="6950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="6950"].aos-animate {
+    transition-delay: 6950ms;
+  }
+  body[data-aos-duration="7000"] [data-aos], [data-aos][data-aos][data-aos-duration="7000"] {
+    transition-duration: 7000ms;
+  }
+  body[data-aos-delay="7000"] [data-aos], [data-aos][data-aos][data-aos-delay="7000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7000"].aos-animate {
+    transition-delay: 7000ms;
+  }
+  body[data-aos-duration="7050"] [data-aos], [data-aos][data-aos][data-aos-duration="7050"] {
+    transition-duration: 7050ms;
+  }
+  body[data-aos-delay="7050"] [data-aos], [data-aos][data-aos][data-aos-delay="7050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7050"].aos-animate {
+    transition-delay: 7050ms;
+  }
+  body[data-aos-duration="7100"] [data-aos], [data-aos][data-aos][data-aos-duration="7100"] {
+    transition-duration: 7100ms;
+  }
+  body[data-aos-delay="7100"] [data-aos], [data-aos][data-aos][data-aos-delay="7100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7100"].aos-animate {
+    transition-delay: 7100ms;
+  }
+  body[data-aos-duration="7150"] [data-aos], [data-aos][data-aos][data-aos-duration="7150"] {
+    transition-duration: 7150ms;
+  }
+  body[data-aos-delay="7150"] [data-aos], [data-aos][data-aos][data-aos-delay="7150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7150"].aos-animate {
+    transition-delay: 7150ms;
+  }
+  body[data-aos-duration="7200"] [data-aos], [data-aos][data-aos][data-aos-duration="7200"] {
+    transition-duration: 7200ms;
+  }
+  body[data-aos-delay="7200"] [data-aos], [data-aos][data-aos][data-aos-delay="7200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7200"].aos-animate {
+    transition-delay: 7200ms;
+  }
+  body[data-aos-duration="7250"] [data-aos], [data-aos][data-aos][data-aos-duration="7250"] {
+    transition-duration: 7250ms;
+  }
+  body[data-aos-delay="7250"] [data-aos], [data-aos][data-aos][data-aos-delay="7250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7250"].aos-animate {
+    transition-delay: 7250ms;
+  }
+  body[data-aos-duration="7300"] [data-aos], [data-aos][data-aos][data-aos-duration="7300"] {
+    transition-duration: 7300ms;
+  }
+  body[data-aos-delay="7300"] [data-aos], [data-aos][data-aos][data-aos-delay="7300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7300"].aos-animate {
+    transition-delay: 7300ms;
+  }
+  body[data-aos-duration="7350"] [data-aos], [data-aos][data-aos][data-aos-duration="7350"] {
+    transition-duration: 7350ms;
+  }
+  body[data-aos-delay="7350"] [data-aos], [data-aos][data-aos][data-aos-delay="7350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7350"].aos-animate {
+    transition-delay: 7350ms;
+  }
+  body[data-aos-duration="7400"] [data-aos], [data-aos][data-aos][data-aos-duration="7400"] {
+    transition-duration: 7400ms;
+  }
+  body[data-aos-delay="7400"] [data-aos], [data-aos][data-aos][data-aos-delay="7400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7400"].aos-animate {
+    transition-delay: 7400ms;
+  }
+  body[data-aos-duration="7450"] [data-aos], [data-aos][data-aos][data-aos-duration="7450"] {
+    transition-duration: 7450ms;
+  }
+  body[data-aos-delay="7450"] [data-aos], [data-aos][data-aos][data-aos-delay="7450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7450"].aos-animate {
+    transition-delay: 7450ms;
+  }
+  body[data-aos-duration="7500"] [data-aos], [data-aos][data-aos][data-aos-duration="7500"] {
+    transition-duration: 7500ms;
+  }
+  body[data-aos-delay="7500"] [data-aos], [data-aos][data-aos][data-aos-delay="7500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7500"].aos-animate {
+    transition-delay: 7500ms;
+  }
+  body[data-aos-duration="7550"] [data-aos], [data-aos][data-aos][data-aos-duration="7550"] {
+    transition-duration: 7550ms;
+  }
+  body[data-aos-delay="7550"] [data-aos], [data-aos][data-aos][data-aos-delay="7550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7550"].aos-animate {
+    transition-delay: 7550ms;
+  }
+  body[data-aos-duration="7600"] [data-aos], [data-aos][data-aos][data-aos-duration="7600"] {
+    transition-duration: 7600ms;
+  }
+  body[data-aos-delay="7600"] [data-aos], [data-aos][data-aos][data-aos-delay="7600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7600"].aos-animate {
+    transition-delay: 7600ms;
+  }
+  body[data-aos-duration="7650"] [data-aos], [data-aos][data-aos][data-aos-duration="7650"] {
+    transition-duration: 7650ms;
+  }
+  body[data-aos-delay="7650"] [data-aos], [data-aos][data-aos][data-aos-delay="7650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7650"].aos-animate {
+    transition-delay: 7650ms;
+  }
+  body[data-aos-duration="7700"] [data-aos], [data-aos][data-aos][data-aos-duration="7700"] {
+    transition-duration: 7700ms;
+  }
+  body[data-aos-delay="7700"] [data-aos], [data-aos][data-aos][data-aos-delay="7700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7700"].aos-animate {
+    transition-delay: 7700ms;
+  }
+  body[data-aos-duration="7750"] [data-aos], [data-aos][data-aos][data-aos-duration="7750"] {
+    transition-duration: 7750ms;
+  }
+  body[data-aos-delay="7750"] [data-aos], [data-aos][data-aos][data-aos-delay="7750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7750"].aos-animate {
+    transition-delay: 7750ms;
+  }
+  body[data-aos-duration="7800"] [data-aos], [data-aos][data-aos][data-aos-duration="7800"] {
+    transition-duration: 7800ms;
+  }
+  body[data-aos-delay="7800"] [data-aos], [data-aos][data-aos][data-aos-delay="7800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7800"].aos-animate {
+    transition-delay: 7800ms;
+  }
+  body[data-aos-duration="7850"] [data-aos], [data-aos][data-aos][data-aos-duration="7850"] {
+    transition-duration: 7850ms;
+  }
+  body[data-aos-delay="7850"] [data-aos], [data-aos][data-aos][data-aos-delay="7850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7850"].aos-animate {
+    transition-delay: 7850ms;
+  }
+  body[data-aos-duration="7900"] [data-aos], [data-aos][data-aos][data-aos-duration="7900"] {
+    transition-duration: 7900ms;
+  }
+  body[data-aos-delay="7900"] [data-aos], [data-aos][data-aos][data-aos-delay="7900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7900"].aos-animate {
+    transition-delay: 7900ms;
+  }
+  body[data-aos-duration="7950"] [data-aos], [data-aos][data-aos][data-aos-duration="7950"] {
+    transition-duration: 7950ms;
+  }
+  body[data-aos-delay="7950"] [data-aos], [data-aos][data-aos][data-aos-delay="7950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="7950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="7950"].aos-animate {
+    transition-delay: 7950ms;
+  }
+  body[data-aos-duration="8000"] [data-aos], [data-aos][data-aos][data-aos-duration="8000"] {
+    transition-duration: 8000ms;
+  }
+  body[data-aos-delay="8000"] [data-aos], [data-aos][data-aos][data-aos-delay="8000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8000"].aos-animate {
+    transition-delay: 8000ms;
+  }
+  body[data-aos-duration="8050"] [data-aos], [data-aos][data-aos][data-aos-duration="8050"] {
+    transition-duration: 8050ms;
+  }
+  body[data-aos-delay="8050"] [data-aos], [data-aos][data-aos][data-aos-delay="8050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8050"].aos-animate {
+    transition-delay: 8050ms;
+  }
+  body[data-aos-duration="8100"] [data-aos], [data-aos][data-aos][data-aos-duration="8100"] {
+    transition-duration: 8100ms;
+  }
+  body[data-aos-delay="8100"] [data-aos], [data-aos][data-aos][data-aos-delay="8100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8100"].aos-animate {
+    transition-delay: 8100ms;
+  }
+  body[data-aos-duration="8150"] [data-aos], [data-aos][data-aos][data-aos-duration="8150"] {
+    transition-duration: 8150ms;
+  }
+  body[data-aos-delay="8150"] [data-aos], [data-aos][data-aos][data-aos-delay="8150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8150"].aos-animate {
+    transition-delay: 8150ms;
+  }
+  body[data-aos-duration="8200"] [data-aos], [data-aos][data-aos][data-aos-duration="8200"] {
+    transition-duration: 8200ms;
+  }
+  body[data-aos-delay="8200"] [data-aos], [data-aos][data-aos][data-aos-delay="8200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8200"].aos-animate {
+    transition-delay: 8200ms;
+  }
+  body[data-aos-duration="8250"] [data-aos], [data-aos][data-aos][data-aos-duration="8250"] {
+    transition-duration: 8250ms;
+  }
+  body[data-aos-delay="8250"] [data-aos], [data-aos][data-aos][data-aos-delay="8250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8250"].aos-animate {
+    transition-delay: 8250ms;
+  }
+  body[data-aos-duration="8300"] [data-aos], [data-aos][data-aos][data-aos-duration="8300"] {
+    transition-duration: 8300ms;
+  }
+  body[data-aos-delay="8300"] [data-aos], [data-aos][data-aos][data-aos-delay="8300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8300"].aos-animate {
+    transition-delay: 8300ms;
+  }
+  body[data-aos-duration="8350"] [data-aos], [data-aos][data-aos][data-aos-duration="8350"] {
+    transition-duration: 8350ms;
+  }
+  body[data-aos-delay="8350"] [data-aos], [data-aos][data-aos][data-aos-delay="8350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8350"].aos-animate {
+    transition-delay: 8350ms;
+  }
+  body[data-aos-duration="8400"] [data-aos], [data-aos][data-aos][data-aos-duration="8400"] {
+    transition-duration: 8400ms;
+  }
+  body[data-aos-delay="8400"] [data-aos], [data-aos][data-aos][data-aos-delay="8400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8400"].aos-animate {
+    transition-delay: 8400ms;
+  }
+  body[data-aos-duration="8450"] [data-aos], [data-aos][data-aos][data-aos-duration="8450"] {
+    transition-duration: 8450ms;
+  }
+  body[data-aos-delay="8450"] [data-aos], [data-aos][data-aos][data-aos-delay="8450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8450"].aos-animate {
+    transition-delay: 8450ms;
+  }
+  body[data-aos-duration="8500"] [data-aos], [data-aos][data-aos][data-aos-duration="8500"] {
+    transition-duration: 8500ms;
+  }
+  body[data-aos-delay="8500"] [data-aos], [data-aos][data-aos][data-aos-delay="8500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8500"].aos-animate {
+    transition-delay: 8500ms;
+  }
+  body[data-aos-duration="8550"] [data-aos], [data-aos][data-aos][data-aos-duration="8550"] {
+    transition-duration: 8550ms;
+  }
+  body[data-aos-delay="8550"] [data-aos], [data-aos][data-aos][data-aos-delay="8550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8550"].aos-animate {
+    transition-delay: 8550ms;
+  }
+  body[data-aos-duration="8600"] [data-aos], [data-aos][data-aos][data-aos-duration="8600"] {
+    transition-duration: 8600ms;
+  }
+  body[data-aos-delay="8600"] [data-aos], [data-aos][data-aos][data-aos-delay="8600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8600"].aos-animate {
+    transition-delay: 8600ms;
+  }
+  body[data-aos-duration="8650"] [data-aos], [data-aos][data-aos][data-aos-duration="8650"] {
+    transition-duration: 8650ms;
+  }
+  body[data-aos-delay="8650"] [data-aos], [data-aos][data-aos][data-aos-delay="8650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8650"].aos-animate {
+    transition-delay: 8650ms;
+  }
+  body[data-aos-duration="8700"] [data-aos], [data-aos][data-aos][data-aos-duration="8700"] {
+    transition-duration: 8700ms;
+  }
+  body[data-aos-delay="8700"] [data-aos], [data-aos][data-aos][data-aos-delay="8700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8700"].aos-animate {
+    transition-delay: 8700ms;
+  }
+  body[data-aos-duration="8750"] [data-aos], [data-aos][data-aos][data-aos-duration="8750"] {
+    transition-duration: 8750ms;
+  }
+  body[data-aos-delay="8750"] [data-aos], [data-aos][data-aos][data-aos-delay="8750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8750"].aos-animate {
+    transition-delay: 8750ms;
+  }
+  body[data-aos-duration="8800"] [data-aos], [data-aos][data-aos][data-aos-duration="8800"] {
+    transition-duration: 8800ms;
+  }
+  body[data-aos-delay="8800"] [data-aos], [data-aos][data-aos][data-aos-delay="8800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8800"].aos-animate {
+    transition-delay: 8800ms;
+  }
+  body[data-aos-duration="8850"] [data-aos], [data-aos][data-aos][data-aos-duration="8850"] {
+    transition-duration: 8850ms;
+  }
+  body[data-aos-delay="8850"] [data-aos], [data-aos][data-aos][data-aos-delay="8850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8850"].aos-animate {
+    transition-delay: 8850ms;
+  }
+  body[data-aos-duration="8900"] [data-aos], [data-aos][data-aos][data-aos-duration="8900"] {
+    transition-duration: 8900ms;
+  }
+  body[data-aos-delay="8900"] [data-aos], [data-aos][data-aos][data-aos-delay="8900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8900"].aos-animate {
+    transition-delay: 8900ms;
+  }
+  body[data-aos-duration="8950"] [data-aos], [data-aos][data-aos][data-aos-duration="8950"] {
+    transition-duration: 8950ms;
+  }
+  body[data-aos-delay="8950"] [data-aos], [data-aos][data-aos][data-aos-delay="8950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="8950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="8950"].aos-animate {
+    transition-delay: 8950ms;
+  }
+  body[data-aos-duration="9000"] [data-aos], [data-aos][data-aos][data-aos-duration="9000"] {
+    transition-duration: 9000ms;
+  }
+  body[data-aos-delay="9000"] [data-aos], [data-aos][data-aos][data-aos-delay="9000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9000"].aos-animate {
+    transition-delay: 9000ms;
+  }
+  body[data-aos-duration="9050"] [data-aos], [data-aos][data-aos][data-aos-duration="9050"] {
+    transition-duration: 9050ms;
+  }
+  body[data-aos-delay="9050"] [data-aos], [data-aos][data-aos][data-aos-delay="9050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9050"].aos-animate {
+    transition-delay: 9050ms;
+  }
+  body[data-aos-duration="9100"] [data-aos], [data-aos][data-aos][data-aos-duration="9100"] {
+    transition-duration: 9100ms;
+  }
+  body[data-aos-delay="9100"] [data-aos], [data-aos][data-aos][data-aos-delay="9100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9100"].aos-animate {
+    transition-delay: 9100ms;
+  }
+  body[data-aos-duration="9150"] [data-aos], [data-aos][data-aos][data-aos-duration="9150"] {
+    transition-duration: 9150ms;
+  }
+  body[data-aos-delay="9150"] [data-aos], [data-aos][data-aos][data-aos-delay="9150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9150"].aos-animate {
+    transition-delay: 9150ms;
+  }
+  body[data-aos-duration="9200"] [data-aos], [data-aos][data-aos][data-aos-duration="9200"] {
+    transition-duration: 9200ms;
+  }
+  body[data-aos-delay="9200"] [data-aos], [data-aos][data-aos][data-aos-delay="9200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9200"].aos-animate {
+    transition-delay: 9200ms;
+  }
+  body[data-aos-duration="9250"] [data-aos], [data-aos][data-aos][data-aos-duration="9250"] {
+    transition-duration: 9250ms;
+  }
+  body[data-aos-delay="9250"] [data-aos], [data-aos][data-aos][data-aos-delay="9250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9250"].aos-animate {
+    transition-delay: 9250ms;
+  }
+  body[data-aos-duration="9300"] [data-aos], [data-aos][data-aos][data-aos-duration="9300"] {
+    transition-duration: 9300ms;
+  }
+  body[data-aos-delay="9300"] [data-aos], [data-aos][data-aos][data-aos-delay="9300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9300"].aos-animate {
+    transition-delay: 9300ms;
+  }
+  body[data-aos-duration="9350"] [data-aos], [data-aos][data-aos][data-aos-duration="9350"] {
+    transition-duration: 9350ms;
+  }
+  body[data-aos-delay="9350"] [data-aos], [data-aos][data-aos][data-aos-delay="9350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9350"].aos-animate {
+    transition-delay: 9350ms;
+  }
+  body[data-aos-duration="9400"] [data-aos], [data-aos][data-aos][data-aos-duration="9400"] {
+    transition-duration: 9400ms;
+  }
+  body[data-aos-delay="9400"] [data-aos], [data-aos][data-aos][data-aos-delay="9400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9400"].aos-animate {
+    transition-delay: 9400ms;
+  }
+  body[data-aos-duration="9450"] [data-aos], [data-aos][data-aos][data-aos-duration="9450"] {
+    transition-duration: 9450ms;
+  }
+  body[data-aos-delay="9450"] [data-aos], [data-aos][data-aos][data-aos-delay="9450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9450"].aos-animate {
+    transition-delay: 9450ms;
+  }
+  body[data-aos-duration="9500"] [data-aos], [data-aos][data-aos][data-aos-duration="9500"] {
+    transition-duration: 9500ms;
+  }
+  body[data-aos-delay="9500"] [data-aos], [data-aos][data-aos][data-aos-delay="9500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9500"].aos-animate {
+    transition-delay: 9500ms;
+  }
+  body[data-aos-duration="9550"] [data-aos], [data-aos][data-aos][data-aos-duration="9550"] {
+    transition-duration: 9550ms;
+  }
+  body[data-aos-delay="9550"] [data-aos], [data-aos][data-aos][data-aos-delay="9550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9550"].aos-animate {
+    transition-delay: 9550ms;
+  }
+  body[data-aos-duration="9600"] [data-aos], [data-aos][data-aos][data-aos-duration="9600"] {
+    transition-duration: 9600ms;
+  }
+  body[data-aos-delay="9600"] [data-aos], [data-aos][data-aos][data-aos-delay="9600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9600"].aos-animate {
+    transition-delay: 9600ms;
+  }
+  body[data-aos-duration="9650"] [data-aos], [data-aos][data-aos][data-aos-duration="9650"] {
+    transition-duration: 9650ms;
+  }
+  body[data-aos-delay="9650"] [data-aos], [data-aos][data-aos][data-aos-delay="9650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9650"].aos-animate {
+    transition-delay: 9650ms;
+  }
+  body[data-aos-duration="9700"] [data-aos], [data-aos][data-aos][data-aos-duration="9700"] {
+    transition-duration: 9700ms;
+  }
+  body[data-aos-delay="9700"] [data-aos], [data-aos][data-aos][data-aos-delay="9700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9700"].aos-animate {
+    transition-delay: 9700ms;
+  }
+  body[data-aos-duration="9750"] [data-aos], [data-aos][data-aos][data-aos-duration="9750"] {
+    transition-duration: 9750ms;
+  }
+  body[data-aos-delay="9750"] [data-aos], [data-aos][data-aos][data-aos-delay="9750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9750"].aos-animate {
+    transition-delay: 9750ms;
+  }
+  body[data-aos-duration="9800"] [data-aos], [data-aos][data-aos][data-aos-duration="9800"] {
+    transition-duration: 9800ms;
+  }
+  body[data-aos-delay="9800"] [data-aos], [data-aos][data-aos][data-aos-delay="9800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9800"].aos-animate {
+    transition-delay: 9800ms;
+  }
+  body[data-aos-duration="9850"] [data-aos], [data-aos][data-aos][data-aos-duration="9850"] {
+    transition-duration: 9850ms;
+  }
+  body[data-aos-delay="9850"] [data-aos], [data-aos][data-aos][data-aos-delay="9850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9850"].aos-animate {
+    transition-delay: 9850ms;
+  }
+  body[data-aos-duration="9900"] [data-aos], [data-aos][data-aos][data-aos-duration="9900"] {
+    transition-duration: 9900ms;
+  }
+  body[data-aos-delay="9900"] [data-aos], [data-aos][data-aos][data-aos-delay="9900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9900"].aos-animate {
+    transition-delay: 9900ms;
+  }
+  body[data-aos-duration="9950"] [data-aos], [data-aos][data-aos][data-aos-duration="9950"] {
+    transition-duration: 9950ms;
+  }
+  body[data-aos-delay="9950"] [data-aos], [data-aos][data-aos][data-aos-delay="9950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="9950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="9950"].aos-animate {
+    transition-delay: 9950ms;
+  }
+  body[data-aos-duration="10000"] [data-aos], [data-aos][data-aos][data-aos-duration="10000"] {
+    transition-duration: 10000ms;
+  }
+  body[data-aos-delay="10000"] [data-aos], [data-aos][data-aos][data-aos-delay="10000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10000"].aos-animate {
+    transition-delay: 10000ms;
+  }
+  body[data-aos-duration="10050"] [data-aos], [data-aos][data-aos][data-aos-duration="10050"] {
+    transition-duration: 10050ms;
+  }
+  body[data-aos-delay="10050"] [data-aos], [data-aos][data-aos][data-aos-delay="10050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10050"].aos-animate {
+    transition-delay: 10050ms;
+  }
+  body[data-aos-duration="10100"] [data-aos], [data-aos][data-aos][data-aos-duration="10100"] {
+    transition-duration: 10100ms;
+  }
+  body[data-aos-delay="10100"] [data-aos], [data-aos][data-aos][data-aos-delay="10100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10100"].aos-animate {
+    transition-delay: 10100ms;
+  }
+  body[data-aos-duration="10150"] [data-aos], [data-aos][data-aos][data-aos-duration="10150"] {
+    transition-duration: 10150ms;
+  }
+  body[data-aos-delay="10150"] [data-aos], [data-aos][data-aos][data-aos-delay="10150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10150"].aos-animate {
+    transition-delay: 10150ms;
+  }
+  body[data-aos-duration="10200"] [data-aos], [data-aos][data-aos][data-aos-duration="10200"] {
+    transition-duration: 10200ms;
+  }
+  body[data-aos-delay="10200"] [data-aos], [data-aos][data-aos][data-aos-delay="10200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10200"].aos-animate {
+    transition-delay: 10200ms;
+  }
+  body[data-aos-duration="10250"] [data-aos], [data-aos][data-aos][data-aos-duration="10250"] {
+    transition-duration: 10250ms;
+  }
+  body[data-aos-delay="10250"] [data-aos], [data-aos][data-aos][data-aos-delay="10250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10250"].aos-animate {
+    transition-delay: 10250ms;
+  }
+  body[data-aos-duration="10300"] [data-aos], [data-aos][data-aos][data-aos-duration="10300"] {
+    transition-duration: 10300ms;
+  }
+  body[data-aos-delay="10300"] [data-aos], [data-aos][data-aos][data-aos-delay="10300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10300"].aos-animate {
+    transition-delay: 10300ms;
+  }
+  body[data-aos-duration="10350"] [data-aos], [data-aos][data-aos][data-aos-duration="10350"] {
+    transition-duration: 10350ms;
+  }
+  body[data-aos-delay="10350"] [data-aos], [data-aos][data-aos][data-aos-delay="10350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10350"].aos-animate {
+    transition-delay: 10350ms;
+  }
+  body[data-aos-duration="10400"] [data-aos], [data-aos][data-aos][data-aos-duration="10400"] {
+    transition-duration: 10400ms;
+  }
+  body[data-aos-delay="10400"] [data-aos], [data-aos][data-aos][data-aos-delay="10400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10400"].aos-animate {
+    transition-delay: 10400ms;
+  }
+  body[data-aos-duration="10450"] [data-aos], [data-aos][data-aos][data-aos-duration="10450"] {
+    transition-duration: 10450ms;
+  }
+  body[data-aos-delay="10450"] [data-aos], [data-aos][data-aos][data-aos-delay="10450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10450"].aos-animate {
+    transition-delay: 10450ms;
+  }
+  body[data-aos-duration="10500"] [data-aos], [data-aos][data-aos][data-aos-duration="10500"] {
+    transition-duration: 10500ms;
+  }
+  body[data-aos-delay="10500"] [data-aos], [data-aos][data-aos][data-aos-delay="10500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10500"].aos-animate {
+    transition-delay: 10500ms;
+  }
+  body[data-aos-duration="10550"] [data-aos], [data-aos][data-aos][data-aos-duration="10550"] {
+    transition-duration: 10550ms;
+  }
+  body[data-aos-delay="10550"] [data-aos], [data-aos][data-aos][data-aos-delay="10550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10550"].aos-animate {
+    transition-delay: 10550ms;
+  }
+  body[data-aos-duration="10600"] [data-aos], [data-aos][data-aos][data-aos-duration="10600"] {
+    transition-duration: 10600ms;
+  }
+  body[data-aos-delay="10600"] [data-aos], [data-aos][data-aos][data-aos-delay="10600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10600"].aos-animate {
+    transition-delay: 10600ms;
+  }
+  body[data-aos-duration="10650"] [data-aos], [data-aos][data-aos][data-aos-duration="10650"] {
+    transition-duration: 10650ms;
+  }
+  body[data-aos-delay="10650"] [data-aos], [data-aos][data-aos][data-aos-delay="10650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10650"].aos-animate {
+    transition-delay: 10650ms;
+  }
+  body[data-aos-duration="10700"] [data-aos], [data-aos][data-aos][data-aos-duration="10700"] {
+    transition-duration: 10700ms;
+  }
+  body[data-aos-delay="10700"] [data-aos], [data-aos][data-aos][data-aos-delay="10700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10700"].aos-animate {
+    transition-delay: 10700ms;
+  }
+  body[data-aos-duration="10750"] [data-aos], [data-aos][data-aos][data-aos-duration="10750"] {
+    transition-duration: 10750ms;
+  }
+  body[data-aos-delay="10750"] [data-aos], [data-aos][data-aos][data-aos-delay="10750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10750"].aos-animate {
+    transition-delay: 10750ms;
+  }
+  body[data-aos-duration="10800"] [data-aos], [data-aos][data-aos][data-aos-duration="10800"] {
+    transition-duration: 10800ms;
+  }
+  body[data-aos-delay="10800"] [data-aos], [data-aos][data-aos][data-aos-delay="10800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10800"].aos-animate {
+    transition-delay: 10800ms;
+  }
+  body[data-aos-duration="10850"] [data-aos], [data-aos][data-aos][data-aos-duration="10850"] {
+    transition-duration: 10850ms;
+  }
+  body[data-aos-delay="10850"] [data-aos], [data-aos][data-aos][data-aos-delay="10850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10850"].aos-animate {
+    transition-delay: 10850ms;
+  }
+  body[data-aos-duration="10900"] [data-aos], [data-aos][data-aos][data-aos-duration="10900"] {
+    transition-duration: 10900ms;
+  }
+  body[data-aos-delay="10900"] [data-aos], [data-aos][data-aos][data-aos-delay="10900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10900"].aos-animate {
+    transition-delay: 10900ms;
+  }
+  body[data-aos-duration="10950"] [data-aos], [data-aos][data-aos][data-aos-duration="10950"] {
+    transition-duration: 10950ms;
+  }
+  body[data-aos-delay="10950"] [data-aos], [data-aos][data-aos][data-aos-delay="10950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="10950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="10950"].aos-animate {
+    transition-delay: 10950ms;
+  }
+  body[data-aos-duration="11000"] [data-aos], [data-aos][data-aos][data-aos-duration="11000"] {
+    transition-duration: 11000ms;
+  }
+  body[data-aos-delay="11000"] [data-aos], [data-aos][data-aos][data-aos-delay="11000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11000"].aos-animate {
+    transition-delay: 11000ms;
+  }
+  body[data-aos-duration="11050"] [data-aos], [data-aos][data-aos][data-aos-duration="11050"] {
+    transition-duration: 11050ms;
+  }
+  body[data-aos-delay="11050"] [data-aos], [data-aos][data-aos][data-aos-delay="11050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11050"].aos-animate {
+    transition-delay: 11050ms;
+  }
+  body[data-aos-duration="11100"] [data-aos], [data-aos][data-aos][data-aos-duration="11100"] {
+    transition-duration: 11100ms;
+  }
+  body[data-aos-delay="11100"] [data-aos], [data-aos][data-aos][data-aos-delay="11100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11100"].aos-animate {
+    transition-delay: 11100ms;
+  }
+  body[data-aos-duration="11150"] [data-aos], [data-aos][data-aos][data-aos-duration="11150"] {
+    transition-duration: 11150ms;
+  }
+  body[data-aos-delay="11150"] [data-aos], [data-aos][data-aos][data-aos-delay="11150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11150"].aos-animate {
+    transition-delay: 11150ms;
+  }
+  body[data-aos-duration="11200"] [data-aos], [data-aos][data-aos][data-aos-duration="11200"] {
+    transition-duration: 11200ms;
+  }
+  body[data-aos-delay="11200"] [data-aos], [data-aos][data-aos][data-aos-delay="11200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11200"].aos-animate {
+    transition-delay: 11200ms;
+  }
+  body[data-aos-duration="11250"] [data-aos], [data-aos][data-aos][data-aos-duration="11250"] {
+    transition-duration: 11250ms;
+  }
+  body[data-aos-delay="11250"] [data-aos], [data-aos][data-aos][data-aos-delay="11250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11250"].aos-animate {
+    transition-delay: 11250ms;
+  }
+  body[data-aos-duration="11300"] [data-aos], [data-aos][data-aos][data-aos-duration="11300"] {
+    transition-duration: 11300ms;
+  }
+  body[data-aos-delay="11300"] [data-aos], [data-aos][data-aos][data-aos-delay="11300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11300"].aos-animate {
+    transition-delay: 11300ms;
+  }
+  body[data-aos-duration="11350"] [data-aos], [data-aos][data-aos][data-aos-duration="11350"] {
+    transition-duration: 11350ms;
+  }
+  body[data-aos-delay="11350"] [data-aos], [data-aos][data-aos][data-aos-delay="11350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11350"].aos-animate {
+    transition-delay: 11350ms;
+  }
+  body[data-aos-duration="11400"] [data-aos], [data-aos][data-aos][data-aos-duration="11400"] {
+    transition-duration: 11400ms;
+  }
+  body[data-aos-delay="11400"] [data-aos], [data-aos][data-aos][data-aos-delay="11400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11400"].aos-animate {
+    transition-delay: 11400ms;
+  }
+  body[data-aos-duration="11450"] [data-aos], [data-aos][data-aos][data-aos-duration="11450"] {
+    transition-duration: 11450ms;
+  }
+  body[data-aos-delay="11450"] [data-aos], [data-aos][data-aos][data-aos-delay="11450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11450"].aos-animate {
+    transition-delay: 11450ms;
+  }
+  body[data-aos-duration="11500"] [data-aos], [data-aos][data-aos][data-aos-duration="11500"] {
+    transition-duration: 11500ms;
+  }
+  body[data-aos-delay="11500"] [data-aos], [data-aos][data-aos][data-aos-delay="11500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11500"].aos-animate {
+    transition-delay: 11500ms;
+  }
+  body[data-aos-duration="11550"] [data-aos], [data-aos][data-aos][data-aos-duration="11550"] {
+    transition-duration: 11550ms;
+  }
+  body[data-aos-delay="11550"] [data-aos], [data-aos][data-aos][data-aos-delay="11550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11550"].aos-animate {
+    transition-delay: 11550ms;
+  }
+  body[data-aos-duration="11600"] [data-aos], [data-aos][data-aos][data-aos-duration="11600"] {
+    transition-duration: 11600ms;
+  }
+  body[data-aos-delay="11600"] [data-aos], [data-aos][data-aos][data-aos-delay="11600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11600"].aos-animate {
+    transition-delay: 11600ms;
+  }
+  body[data-aos-duration="11650"] [data-aos], [data-aos][data-aos][data-aos-duration="11650"] {
+    transition-duration: 11650ms;
+  }
+  body[data-aos-delay="11650"] [data-aos], [data-aos][data-aos][data-aos-delay="11650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11650"].aos-animate {
+    transition-delay: 11650ms;
+  }
+  body[data-aos-duration="11700"] [data-aos], [data-aos][data-aos][data-aos-duration="11700"] {
+    transition-duration: 11700ms;
+  }
+  body[data-aos-delay="11700"] [data-aos], [data-aos][data-aos][data-aos-delay="11700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11700"].aos-animate {
+    transition-delay: 11700ms;
+  }
+  body[data-aos-duration="11750"] [data-aos], [data-aos][data-aos][data-aos-duration="11750"] {
+    transition-duration: 11750ms;
+  }
+  body[data-aos-delay="11750"] [data-aos], [data-aos][data-aos][data-aos-delay="11750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11750"].aos-animate {
+    transition-delay: 11750ms;
+  }
+  body[data-aos-duration="11800"] [data-aos], [data-aos][data-aos][data-aos-duration="11800"] {
+    transition-duration: 11800ms;
+  }
+  body[data-aos-delay="11800"] [data-aos], [data-aos][data-aos][data-aos-delay="11800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11800"].aos-animate {
+    transition-delay: 11800ms;
+  }
+  body[data-aos-duration="11850"] [data-aos], [data-aos][data-aos][data-aos-duration="11850"] {
+    transition-duration: 11850ms;
+  }
+  body[data-aos-delay="11850"] [data-aos], [data-aos][data-aos][data-aos-delay="11850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11850"].aos-animate {
+    transition-delay: 11850ms;
+  }
+  body[data-aos-duration="11900"] [data-aos], [data-aos][data-aos][data-aos-duration="11900"] {
+    transition-duration: 11900ms;
+  }
+  body[data-aos-delay="11900"] [data-aos], [data-aos][data-aos][data-aos-delay="11900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11900"].aos-animate {
+    transition-delay: 11900ms;
+  }
+  body[data-aos-duration="11950"] [data-aos], [data-aos][data-aos][data-aos-duration="11950"] {
+    transition-duration: 11950ms;
+  }
+  body[data-aos-delay="11950"] [data-aos], [data-aos][data-aos][data-aos-delay="11950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="11950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="11950"].aos-animate {
+    transition-delay: 11950ms;
+  }
+  body[data-aos-duration="12000"] [data-aos], [data-aos][data-aos][data-aos-duration="12000"] {
+    transition-duration: 12000ms;
+  }
+  body[data-aos-delay="12000"] [data-aos], [data-aos][data-aos][data-aos-delay="12000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12000"].aos-animate {
+    transition-delay: 12000ms;
+  }
+  body[data-aos-duration="12050"] [data-aos], [data-aos][data-aos][data-aos-duration="12050"] {
+    transition-duration: 12050ms;
+  }
+  body[data-aos-delay="12050"] [data-aos], [data-aos][data-aos][data-aos-delay="12050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12050"].aos-animate {
+    transition-delay: 12050ms;
+  }
+  body[data-aos-duration="12100"] [data-aos], [data-aos][data-aos][data-aos-duration="12100"] {
+    transition-duration: 12100ms;
+  }
+  body[data-aos-delay="12100"] [data-aos], [data-aos][data-aos][data-aos-delay="12100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12100"].aos-animate {
+    transition-delay: 12100ms;
+  }
+  body[data-aos-duration="12150"] [data-aos], [data-aos][data-aos][data-aos-duration="12150"] {
+    transition-duration: 12150ms;
+  }
+  body[data-aos-delay="12150"] [data-aos], [data-aos][data-aos][data-aos-delay="12150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12150"].aos-animate {
+    transition-delay: 12150ms;
+  }
+  body[data-aos-duration="12200"] [data-aos], [data-aos][data-aos][data-aos-duration="12200"] {
+    transition-duration: 12200ms;
+  }
+  body[data-aos-delay="12200"] [data-aos], [data-aos][data-aos][data-aos-delay="12200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12200"].aos-animate {
+    transition-delay: 12200ms;
+  }
+  body[data-aos-duration="12250"] [data-aos], [data-aos][data-aos][data-aos-duration="12250"] {
+    transition-duration: 12250ms;
+  }
+  body[data-aos-delay="12250"] [data-aos], [data-aos][data-aos][data-aos-delay="12250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12250"].aos-animate {
+    transition-delay: 12250ms;
+  }
+  body[data-aos-duration="12300"] [data-aos], [data-aos][data-aos][data-aos-duration="12300"] {
+    transition-duration: 12300ms;
+  }
+  body[data-aos-delay="12300"] [data-aos], [data-aos][data-aos][data-aos-delay="12300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12300"].aos-animate {
+    transition-delay: 12300ms;
+  }
+  body[data-aos-duration="12350"] [data-aos], [data-aos][data-aos][data-aos-duration="12350"] {
+    transition-duration: 12350ms;
+  }
+  body[data-aos-delay="12350"] [data-aos], [data-aos][data-aos][data-aos-delay="12350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12350"].aos-animate {
+    transition-delay: 12350ms;
+  }
+  body[data-aos-duration="12400"] [data-aos], [data-aos][data-aos][data-aos-duration="12400"] {
+    transition-duration: 12400ms;
+  }
+  body[data-aos-delay="12400"] [data-aos], [data-aos][data-aos][data-aos-delay="12400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12400"].aos-animate {
+    transition-delay: 12400ms;
+  }
+  body[data-aos-duration="12450"] [data-aos], [data-aos][data-aos][data-aos-duration="12450"] {
+    transition-duration: 12450ms;
+  }
+  body[data-aos-delay="12450"] [data-aos], [data-aos][data-aos][data-aos-delay="12450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12450"].aos-animate {
+    transition-delay: 12450ms;
+  }
+  body[data-aos-duration="12500"] [data-aos], [data-aos][data-aos][data-aos-duration="12500"] {
+    transition-duration: 12500ms;
+  }
+  body[data-aos-delay="12500"] [data-aos], [data-aos][data-aos][data-aos-delay="12500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12500"].aos-animate {
+    transition-delay: 12500ms;
+  }
+  body[data-aos-duration="12550"] [data-aos], [data-aos][data-aos][data-aos-duration="12550"] {
+    transition-duration: 12550ms;
+  }
+  body[data-aos-delay="12550"] [data-aos], [data-aos][data-aos][data-aos-delay="12550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12550"].aos-animate {
+    transition-delay: 12550ms;
+  }
+  body[data-aos-duration="12600"] [data-aos], [data-aos][data-aos][data-aos-duration="12600"] {
+    transition-duration: 12600ms;
+  }
+  body[data-aos-delay="12600"] [data-aos], [data-aos][data-aos][data-aos-delay="12600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12600"].aos-animate {
+    transition-delay: 12600ms;
+  }
+  body[data-aos-duration="12650"] [data-aos], [data-aos][data-aos][data-aos-duration="12650"] {
+    transition-duration: 12650ms;
+  }
+  body[data-aos-delay="12650"] [data-aos], [data-aos][data-aos][data-aos-delay="12650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12650"].aos-animate {
+    transition-delay: 12650ms;
+  }
+  body[data-aos-duration="12700"] [data-aos], [data-aos][data-aos][data-aos-duration="12700"] {
+    transition-duration: 12700ms;
+  }
+  body[data-aos-delay="12700"] [data-aos], [data-aos][data-aos][data-aos-delay="12700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12700"].aos-animate {
+    transition-delay: 12700ms;
+  }
+  body[data-aos-duration="12750"] [data-aos], [data-aos][data-aos][data-aos-duration="12750"] {
+    transition-duration: 12750ms;
+  }
+  body[data-aos-delay="12750"] [data-aos], [data-aos][data-aos][data-aos-delay="12750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12750"].aos-animate {
+    transition-delay: 12750ms;
+  }
+  body[data-aos-duration="12800"] [data-aos], [data-aos][data-aos][data-aos-duration="12800"] {
+    transition-duration: 12800ms;
+  }
+  body[data-aos-delay="12800"] [data-aos], [data-aos][data-aos][data-aos-delay="12800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12800"].aos-animate {
+    transition-delay: 12800ms;
+  }
+  body[data-aos-duration="12850"] [data-aos], [data-aos][data-aos][data-aos-duration="12850"] {
+    transition-duration: 12850ms;
+  }
+  body[data-aos-delay="12850"] [data-aos], [data-aos][data-aos][data-aos-delay="12850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12850"].aos-animate {
+    transition-delay: 12850ms;
+  }
+  body[data-aos-duration="12900"] [data-aos], [data-aos][data-aos][data-aos-duration="12900"] {
+    transition-duration: 12900ms;
+  }
+  body[data-aos-delay="12900"] [data-aos], [data-aos][data-aos][data-aos-delay="12900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12900"].aos-animate {
+    transition-delay: 12900ms;
+  }
+  body[data-aos-duration="12950"] [data-aos], [data-aos][data-aos][data-aos-duration="12950"] {
+    transition-duration: 12950ms;
+  }
+  body[data-aos-delay="12950"] [data-aos], [data-aos][data-aos][data-aos-delay="12950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="12950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="12950"].aos-animate {
+    transition-delay: 12950ms;
+  }
+  body[data-aos-duration="13000"] [data-aos], [data-aos][data-aos][data-aos-duration="13000"] {
+    transition-duration: 13000ms;
+  }
+  body[data-aos-delay="13000"] [data-aos], [data-aos][data-aos][data-aos-delay="13000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13000"].aos-animate {
+    transition-delay: 13000ms;
+  }
+  body[data-aos-duration="13050"] [data-aos], [data-aos][data-aos][data-aos-duration="13050"] {
+    transition-duration: 13050ms;
+  }
+  body[data-aos-delay="13050"] [data-aos], [data-aos][data-aos][data-aos-delay="13050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13050"].aos-animate {
+    transition-delay: 13050ms;
+  }
+  body[data-aos-duration="13100"] [data-aos], [data-aos][data-aos][data-aos-duration="13100"] {
+    transition-duration: 13100ms;
+  }
+  body[data-aos-delay="13100"] [data-aos], [data-aos][data-aos][data-aos-delay="13100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13100"].aos-animate {
+    transition-delay: 13100ms;
+  }
+  body[data-aos-duration="13150"] [data-aos], [data-aos][data-aos][data-aos-duration="13150"] {
+    transition-duration: 13150ms;
+  }
+  body[data-aos-delay="13150"] [data-aos], [data-aos][data-aos][data-aos-delay="13150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13150"].aos-animate {
+    transition-delay: 13150ms;
+  }
+  body[data-aos-duration="13200"] [data-aos], [data-aos][data-aos][data-aos-duration="13200"] {
+    transition-duration: 13200ms;
+  }
+  body[data-aos-delay="13200"] [data-aos], [data-aos][data-aos][data-aos-delay="13200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13200"].aos-animate {
+    transition-delay: 13200ms;
+  }
+  body[data-aos-duration="13250"] [data-aos], [data-aos][data-aos][data-aos-duration="13250"] {
+    transition-duration: 13250ms;
+  }
+  body[data-aos-delay="13250"] [data-aos], [data-aos][data-aos][data-aos-delay="13250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13250"].aos-animate {
+    transition-delay: 13250ms;
+  }
+  body[data-aos-duration="13300"] [data-aos], [data-aos][data-aos][data-aos-duration="13300"] {
+    transition-duration: 13300ms;
+  }
+  body[data-aos-delay="13300"] [data-aos], [data-aos][data-aos][data-aos-delay="13300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13300"].aos-animate {
+    transition-delay: 13300ms;
+  }
+  body[data-aos-duration="13350"] [data-aos], [data-aos][data-aos][data-aos-duration="13350"] {
+    transition-duration: 13350ms;
+  }
+  body[data-aos-delay="13350"] [data-aos], [data-aos][data-aos][data-aos-delay="13350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13350"].aos-animate {
+    transition-delay: 13350ms;
+  }
+  body[data-aos-duration="13400"] [data-aos], [data-aos][data-aos][data-aos-duration="13400"] {
+    transition-duration: 13400ms;
+  }
+  body[data-aos-delay="13400"] [data-aos], [data-aos][data-aos][data-aos-delay="13400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13400"].aos-animate {
+    transition-delay: 13400ms;
+  }
+  body[data-aos-duration="13450"] [data-aos], [data-aos][data-aos][data-aos-duration="13450"] {
+    transition-duration: 13450ms;
+  }
+  body[data-aos-delay="13450"] [data-aos], [data-aos][data-aos][data-aos-delay="13450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13450"].aos-animate {
+    transition-delay: 13450ms;
+  }
+  body[data-aos-duration="13500"] [data-aos], [data-aos][data-aos][data-aos-duration="13500"] {
+    transition-duration: 13500ms;
+  }
+  body[data-aos-delay="13500"] [data-aos], [data-aos][data-aos][data-aos-delay="13500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13500"].aos-animate {
+    transition-delay: 13500ms;
+  }
+  body[data-aos-duration="13550"] [data-aos], [data-aos][data-aos][data-aos-duration="13550"] {
+    transition-duration: 13550ms;
+  }
+  body[data-aos-delay="13550"] [data-aos], [data-aos][data-aos][data-aos-delay="13550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13550"].aos-animate {
+    transition-delay: 13550ms;
+  }
+  body[data-aos-duration="13600"] [data-aos], [data-aos][data-aos][data-aos-duration="13600"] {
+    transition-duration: 13600ms;
+  }
+  body[data-aos-delay="13600"] [data-aos], [data-aos][data-aos][data-aos-delay="13600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13600"].aos-animate {
+    transition-delay: 13600ms;
+  }
+  body[data-aos-duration="13650"] [data-aos], [data-aos][data-aos][data-aos-duration="13650"] {
+    transition-duration: 13650ms;
+  }
+  body[data-aos-delay="13650"] [data-aos], [data-aos][data-aos][data-aos-delay="13650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13650"].aos-animate {
+    transition-delay: 13650ms;
+  }
+  body[data-aos-duration="13700"] [data-aos], [data-aos][data-aos][data-aos-duration="13700"] {
+    transition-duration: 13700ms;
+  }
+  body[data-aos-delay="13700"] [data-aos], [data-aos][data-aos][data-aos-delay="13700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13700"].aos-animate {
+    transition-delay: 13700ms;
+  }
+  body[data-aos-duration="13750"] [data-aos], [data-aos][data-aos][data-aos-duration="13750"] {
+    transition-duration: 13750ms;
+  }
+  body[data-aos-delay="13750"] [data-aos], [data-aos][data-aos][data-aos-delay="13750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13750"].aos-animate {
+    transition-delay: 13750ms;
+  }
+  body[data-aos-duration="13800"] [data-aos], [data-aos][data-aos][data-aos-duration="13800"] {
+    transition-duration: 13800ms;
+  }
+  body[data-aos-delay="13800"] [data-aos], [data-aos][data-aos][data-aos-delay="13800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13800"].aos-animate {
+    transition-delay: 13800ms;
+  }
+  body[data-aos-duration="13850"] [data-aos], [data-aos][data-aos][data-aos-duration="13850"] {
+    transition-duration: 13850ms;
+  }
+  body[data-aos-delay="13850"] [data-aos], [data-aos][data-aos][data-aos-delay="13850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13850"].aos-animate {
+    transition-delay: 13850ms;
+  }
+  body[data-aos-duration="13900"] [data-aos], [data-aos][data-aos][data-aos-duration="13900"] {
+    transition-duration: 13900ms;
+  }
+  body[data-aos-delay="13900"] [data-aos], [data-aos][data-aos][data-aos-delay="13900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13900"].aos-animate {
+    transition-delay: 13900ms;
+  }
+  body[data-aos-duration="13950"] [data-aos], [data-aos][data-aos][data-aos-duration="13950"] {
+    transition-duration: 13950ms;
+  }
+  body[data-aos-delay="13950"] [data-aos], [data-aos][data-aos][data-aos-delay="13950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="13950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="13950"].aos-animate {
+    transition-delay: 13950ms;
+  }
+  body[data-aos-duration="14000"] [data-aos], [data-aos][data-aos][data-aos-duration="14000"] {
+    transition-duration: 14000ms;
+  }
+  body[data-aos-delay="14000"] [data-aos], [data-aos][data-aos][data-aos-delay="14000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14000"].aos-animate {
+    transition-delay: 14000ms;
+  }
+  body[data-aos-duration="14050"] [data-aos], [data-aos][data-aos][data-aos-duration="14050"] {
+    transition-duration: 14050ms;
+  }
+  body[data-aos-delay="14050"] [data-aos], [data-aos][data-aos][data-aos-delay="14050"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14050"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14050"].aos-animate {
+    transition-delay: 14050ms;
+  }
+  body[data-aos-duration="14100"] [data-aos], [data-aos][data-aos][data-aos-duration="14100"] {
+    transition-duration: 14100ms;
+  }
+  body[data-aos-delay="14100"] [data-aos], [data-aos][data-aos][data-aos-delay="14100"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14100"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14100"].aos-animate {
+    transition-delay: 14100ms;
+  }
+  body[data-aos-duration="14150"] [data-aos], [data-aos][data-aos][data-aos-duration="14150"] {
+    transition-duration: 14150ms;
+  }
+  body[data-aos-delay="14150"] [data-aos], [data-aos][data-aos][data-aos-delay="14150"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14150"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14150"].aos-animate {
+    transition-delay: 14150ms;
+  }
+  body[data-aos-duration="14200"] [data-aos], [data-aos][data-aos][data-aos-duration="14200"] {
+    transition-duration: 14200ms;
+  }
+  body[data-aos-delay="14200"] [data-aos], [data-aos][data-aos][data-aos-delay="14200"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14200"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14200"].aos-animate {
+    transition-delay: 14200ms;
+  }
+  body[data-aos-duration="14250"] [data-aos], [data-aos][data-aos][data-aos-duration="14250"] {
+    transition-duration: 14250ms;
+  }
+  body[data-aos-delay="14250"] [data-aos], [data-aos][data-aos][data-aos-delay="14250"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14250"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14250"].aos-animate {
+    transition-delay: 14250ms;
+  }
+  body[data-aos-duration="14300"] [data-aos], [data-aos][data-aos][data-aos-duration="14300"] {
+    transition-duration: 14300ms;
+  }
+  body[data-aos-delay="14300"] [data-aos], [data-aos][data-aos][data-aos-delay="14300"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14300"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14300"].aos-animate {
+    transition-delay: 14300ms;
+  }
+  body[data-aos-duration="14350"] [data-aos], [data-aos][data-aos][data-aos-duration="14350"] {
+    transition-duration: 14350ms;
+  }
+  body[data-aos-delay="14350"] [data-aos], [data-aos][data-aos][data-aos-delay="14350"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14350"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14350"].aos-animate {
+    transition-delay: 14350ms;
+  }
+  body[data-aos-duration="14400"] [data-aos], [data-aos][data-aos][data-aos-duration="14400"] {
+    transition-duration: 14400ms;
+  }
+  body[data-aos-delay="14400"] [data-aos], [data-aos][data-aos][data-aos-delay="14400"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14400"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14400"].aos-animate {
+    transition-delay: 14400ms;
+  }
+  body[data-aos-duration="14450"] [data-aos], [data-aos][data-aos][data-aos-duration="14450"] {
+    transition-duration: 14450ms;
+  }
+  body[data-aos-delay="14450"] [data-aos], [data-aos][data-aos][data-aos-delay="14450"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14450"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14450"].aos-animate {
+    transition-delay: 14450ms;
+  }
+  body[data-aos-duration="14500"] [data-aos], [data-aos][data-aos][data-aos-duration="14500"] {
+    transition-duration: 14500ms;
+  }
+  body[data-aos-delay="14500"] [data-aos], [data-aos][data-aos][data-aos-delay="14500"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14500"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14500"].aos-animate {
+    transition-delay: 14500ms;
+  }
+  body[data-aos-duration="14550"] [data-aos], [data-aos][data-aos][data-aos-duration="14550"] {
+    transition-duration: 14550ms;
+  }
+  body[data-aos-delay="14550"] [data-aos], [data-aos][data-aos][data-aos-delay="14550"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14550"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14550"].aos-animate {
+    transition-delay: 14550ms;
+  }
+  body[data-aos-duration="14600"] [data-aos], [data-aos][data-aos][data-aos-duration="14600"] {
+    transition-duration: 14600ms;
+  }
+  body[data-aos-delay="14600"] [data-aos], [data-aos][data-aos][data-aos-delay="14600"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14600"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14600"].aos-animate {
+    transition-delay: 14600ms;
+  }
+  body[data-aos-duration="14650"] [data-aos], [data-aos][data-aos][data-aos-duration="14650"] {
+    transition-duration: 14650ms;
+  }
+  body[data-aos-delay="14650"] [data-aos], [data-aos][data-aos][data-aos-delay="14650"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14650"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14650"].aos-animate {
+    transition-delay: 14650ms;
+  }
+  body[data-aos-duration="14700"] [data-aos], [data-aos][data-aos][data-aos-duration="14700"] {
+    transition-duration: 14700ms;
+  }
+  body[data-aos-delay="14700"] [data-aos], [data-aos][data-aos][data-aos-delay="14700"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14700"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14700"].aos-animate {
+    transition-delay: 14700ms;
+  }
+  body[data-aos-duration="14750"] [data-aos], [data-aos][data-aos][data-aos-duration="14750"] {
+    transition-duration: 14750ms;
+  }
+  body[data-aos-delay="14750"] [data-aos], [data-aos][data-aos][data-aos-delay="14750"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14750"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14750"].aos-animate {
+    transition-delay: 14750ms;
+  }
+  body[data-aos-duration="14800"] [data-aos], [data-aos][data-aos][data-aos-duration="14800"] {
+    transition-duration: 14800ms;
+  }
+  body[data-aos-delay="14800"] [data-aos], [data-aos][data-aos][data-aos-delay="14800"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14800"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14800"].aos-animate {
+    transition-delay: 14800ms;
+  }
+  body[data-aos-duration="14850"] [data-aos], [data-aos][data-aos][data-aos-duration="14850"] {
+    transition-duration: 14850ms;
+  }
+  body[data-aos-delay="14850"] [data-aos], [data-aos][data-aos][data-aos-delay="14850"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14850"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14850"].aos-animate {
+    transition-delay: 14850ms;
+  }
+  body[data-aos-duration="14900"] [data-aos], [data-aos][data-aos][data-aos-duration="14900"] {
+    transition-duration: 14900ms;
+  }
+  body[data-aos-delay="14900"] [data-aos], [data-aos][data-aos][data-aos-delay="14900"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14900"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14900"].aos-animate {
+    transition-delay: 14900ms;
+  }
+  body[data-aos-duration="14950"] [data-aos], [data-aos][data-aos][data-aos-duration="14950"] {
+    transition-duration: 14950ms;
+  }
+  body[data-aos-delay="14950"] [data-aos], [data-aos][data-aos][data-aos-delay="14950"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="14950"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="14950"].aos-animate {
+    transition-delay: 14950ms;
+  }
+  body[data-aos-duration="15000"] [data-aos], [data-aos][data-aos][data-aos-duration="15000"] {
+    transition-duration: 15000ms;
+  }
+  body[data-aos-delay="15000"] [data-aos], [data-aos][data-aos][data-aos-delay="15000"] {
+    transition-delay: 0;
+  }
+  body[data-aos-delay="15000"] [data-aos].aos-animate, [data-aos][data-aos][data-aos-delay="15000"].aos-animate {
+    transition-delay: 15000ms;
+  }
+  
+  body[data-aos-easing=linear] [data-aos], [data-aos][data-aos][data-aos-easing=linear] {
+    transition-timing-function: cubic-bezier(0.25, 0.25, 0.75, 0.75);
+  }
+  body[data-aos-easing=ease] [data-aos], [data-aos][data-aos][data-aos-easing=ease] {
+    transition-timing-function: cubic-bezier(0.25, 0.1, 0.25, 1);
+  }
+  body[data-aos-easing=ease-in] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in] {
+    transition-timing-function: cubic-bezier(0.42, 0, 1, 1);
+  }
+  body[data-aos-easing=ease-out] [data-aos], [data-aos][data-aos][data-aos-easing=ease-out] {
+    transition-timing-function: cubic-bezier(0, 0, 0.58, 1);
+  }
+  body[data-aos-easing=ease-in-out] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-out] {
+    transition-timing-function: cubic-bezier(0.42, 0, 0.58, 1);
+  }
+  body[data-aos-easing=ease-in-back] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-back] {
+    transition-timing-function: cubic-bezier(0.6, -0.28, 0.735, 0.045);
+  }
+  body[data-aos-easing=ease-out-back] [data-aos], [data-aos][data-aos][data-aos-easing=ease-out-back] {
+    transition-timing-function: cubic-bezier(0.175, 0.885, 0.32, 1.275);
+  }
+  body[data-aos-easing=ease-in-out-back] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-out-back] {
+    transition-timing-function: cubic-bezier(0.68, -0.55, 0.265, 1.55);
+  }
+  body[data-aos-easing=ease-in-sine] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-sine] {
+    transition-timing-function: cubic-bezier(0.47, 0, 0.745, 0.715);
+  }
+  body[data-aos-easing=ease-out-sine] [data-aos], [data-aos][data-aos][data-aos-easing=ease-out-sine] {
+    transition-timing-function: cubic-bezier(0.39, 0.575, 0.565, 1);
+  }
+  body[data-aos-easing=ease-in-out-sine] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-out-sine] {
+    transition-timing-function: cubic-bezier(0.445, 0.05, 0.55, 0.95);
+  }
+  body[data-aos-easing=ease-in-quad] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-quad] {
+    transition-timing-function: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+  }
+  body[data-aos-easing=ease-out-quad] [data-aos], [data-aos][data-aos][data-aos-easing=ease-out-quad] {
+    transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+  body[data-aos-easing=ease-in-out-quad] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-out-quad] {
+    transition-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  }
+  body[data-aos-easing=ease-in-cubic] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-cubic] {
+    transition-timing-function: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+  }
+  body[data-aos-easing=ease-out-cubic] [data-aos], [data-aos][data-aos][data-aos-easing=ease-out-cubic] {
+    transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+  body[data-aos-easing=ease-in-out-cubic] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-out-cubic] {
+    transition-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  }
+  body[data-aos-easing=ease-in-quart] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-quart] {
+    transition-timing-function: cubic-bezier(0.55, 0.085, 0.68, 0.53);
+  }
+  body[data-aos-easing=ease-out-quart] [data-aos], [data-aos][data-aos][data-aos-easing=ease-out-quart] {
+    transition-timing-function: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  }
+  body[data-aos-easing=ease-in-out-quart] [data-aos], [data-aos][data-aos][data-aos-easing=ease-in-out-quart] {
+    transition-timing-function: cubic-bezier(0.455, 0.03, 0.515, 0.955);
+  }
+  
+  /**
+   * Fade animations:
+   * fade
+   * fade-up, fade-down, fade-left, fade-right
+   * fade-up-right, fade-up-left, fade-down-right, fade-down-left
+   */
+  [data-aos^=fade][data-aos^=fade] {
+    opacity: 0;
+    transition-property: opacity, transform;
+  }
+  [data-aos^=fade][data-aos^=fade].aos-animate {
+    opacity: 1;
+    transform: translate3d(0, 0, 0);
+  }
+  
+  [data-aos=fade-up] {
+    transform: translate3d(0, 100px, 0);
+  }
+  
+  [data-aos=fade-down] {
+    transform: translate3d(0, -100px, 0);
+  }
+  
+  [data-aos=fade-right] {
+    transform: translate3d(-100px, 0, 0);
+  }
+  
+  [data-aos=fade-left] {
+    transform: translate3d(100px, 0, 0);
+  }
+  
+  [data-aos=fade-up-right] {
+    transform: translate3d(-100px, 100px, 0);
+  }
+  
+  [data-aos=fade-up-left] {
+    transform: translate3d(100px, 100px, 0);
+  }
+  
+  [data-aos=fade-down-right] {
+    transform: translate3d(-100px, -100px, 0);
+  }
+  
+  [data-aos=fade-down-left] {
+    transform: translate3d(100px, -100px, 0);
+  }
+  
+  /**
+   * Zoom animations:
+   * zoom-in, zoom-in-up, zoom-in-down, zoom-in-left, zoom-in-right
+   * zoom-out, zoom-out-up, zoom-out-down, zoom-out-left, zoom-out-right
+   */
+  [data-aos^=zoom][data-aos^=zoom] {
+    opacity: 0;
+    transition-property: opacity, transform;
+  }
+  [data-aos^=zoom][data-aos^=zoom].aos-animate {
+    opacity: 1;
+    transform: translate3d(0, 0, 0) scale(1);
+  }
+  
+  [data-aos=zoom-in] {
+    transform: scale(0.6);
+  }
+  
+  [data-aos=zoom-in-up] {
+    transform: translate3d(0, 100px, 0) scale(0.6);
+  }
+  
+  [data-aos=zoom-in-down] {
+    transform: translate3d(0, -100px, 0) scale(0.6);
+  }
+  
+  [data-aos=zoom-in-right] {
+    transform: translate3d(-100px, 0, 0) scale(0.6);
+  }
+  
+  [data-aos=zoom-in-left] {
+    transform: translate3d(100px, 0, 0) scale(0.6);
+  }
+  
+  [data-aos=zoom-out] {
+    transform: scale(1.2);
+  }
+  
+  [data-aos=zoom-out-up] {
+    transform: translate3d(0, 100px, 0) scale(1.2);
+  }
+  
+  [data-aos=zoom-out-down] {
+    transform: translate3d(0, -100px, 0) scale(1.2);
+  }
+  
+  [data-aos=zoom-out-right] {
+    transform: translate3d(-100px, 0, 0) scale(1.2);
+  }
+  
+  [data-aos=zoom-out-left] {
+    transform: translate3d(100px, 0, 0) scale(1.2);
+  }
+  
+  /**
+   * Slide animations
+   */
+  [data-aos^=slide][data-aos^=slide] {
+    transition-property: transform;
+  }
+  [data-aos^=slide][data-aos^=slide].aos-animate {
+    transform: translate3d(0, 0, 0);
+  }
+  
+  [data-aos=slide-up] {
+    transform: translate3d(0, 100%, 0);
+  }
+  
+  [data-aos=slide-down] {
+    transform: translate3d(0, -100%, 0);
+  }
+  
+  [data-aos=slide-right] {
+    transform: translate3d(-100%, 0, 0);
+  }
+  
+  [data-aos=slide-left] {
+    transform: translate3d(100%, 0, 0);
+  }
+  
+  /**
+   * Flip animations:
+   * flip-left, flip-right, flip-up, flip-down
+   */
+  [data-aos^=flip][data-aos^=flip] {
+    backface-visibility: hidden;
+    transition-property: transform;
+  }
+  
+  [data-aos=flip-left] {
+    transform: perspective(2500px) rotateY(-100deg);
+  }
+  [data-aos=flip-left].aos-animate {
+    transform: perspective(2500px) rotateY(0);
+  }
+  
+  [data-aos=flip-right] {
+    transform: perspective(2500px) rotateY(100deg);
+  }
+  [data-aos=flip-right].aos-animate {
+    transform: perspective(2500px) rotateY(0);
+  }
+  
+  [data-aos=flip-up] {
+    transform: perspective(2500px) rotateX(-100deg);
+  }
+  [data-aos=flip-up].aos-animate {
+    transform: perspective(2500px) rotateX(0);
+  }
+  
+  [data-aos=flip-down] {
+    transform: perspective(2500px) rotateX(100deg);
+  }
+  [data-aos=flip-down].aos-animate {
+    transform: perspective(2500px) rotateX(0);
+  }
